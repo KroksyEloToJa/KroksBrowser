@@ -1,0 +1,1048 @@
+[0918/192246.634:WARNING:chrome_browser_cloud_management_controller.cc(88)] Could not create policy manager as CBCM is not enabled.
+[0918/192246.727:INFO:component_installer.cc(297)] Failed to verify installation for Widevine Content Decryption Module (C:\Users\Gaming\AppData\Local\CEF\User Data\WidevineCdm\4.10.2557.0).: System nie mo¿e odnaleŸæ okreœlonej œcie¿ki. (0x3)
+[0918/192302.001:INFO:child_thread_impl.cc(927)] ChildThreadImpl::EnsureConnected()
+[0918/192302.001:INFO:child_thread_impl.cc(927)] ChildThreadImpl::EnsureConnected()
+[0918/192356.692:WARNING:chrome_browser_cloud_management_controller.cc(88)] Could not create policy manager as CBCM is not enabled.
+[0918/192358.554:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[0918/192359.185:INFO:CONSOLE(1)] "[Report Only] Refused to load the script 'https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-ZwwInEWxb3gMZiDR68NsAhyrDvtvKcmKc6P32Vu6BWA='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+", source: https://www.bing.com/?toWww=1&redig=EC8C7538F8184F21B88A96717A28023A (1)
+[0918/192359.921:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[0918/192400.118:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771078 [7,6]
+[0918/192400.205:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[0918/192400.205:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[0918/192400.205:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[0918/192400.205:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[0918/192400.353:INFO:CONSOLE(18)] "BSSO Telemetry: {"result":"Error","error":"NoExtension","type":"ChromeSsoTelemetry","data":{},"traces":["BrowserSSO Initialized","Creating ChromeBrowserCore provider","Sending message for method CreateProviderAsync","Received message for method CreateProviderAsync","Error: ChromeBrowserCore error NoExtension: Extension is not installed."]}", source: https://aadcdn.msftauth.net/shared/1.0/content/js/BssoInterrupt_Core_nun_Nob0yT2WjCUfgBCTog2.js (18)
+[0918/192400.624:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[0918/192400.624:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[0918/192400.625:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[0918/192400.625:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[0918/192400.627:INFO:CONSOLE(0)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://www.bing.com/orgid/idtoken/conditional (0)
+[0918/192403.965:INFO:CONSOLE(9063)] "Mon Sep 18 2023 19:24:03 GMT+0200 (Central European Summer Time): 1695057843965 {"id":37562,"severity":0,"pb":{"build":"20230904.296","appType":"bingHomepage","pcsVersion":"20230915.12_master","pcsEnv":"prod","buildAlias":"latest","shouldDelayUntilLoadTime":false,"shouldSupressWarnings":false,"isBackgroundRefresh":false,"responseHeaders":"{\"Akamai-Request-ID\":null,\"Akamai-Server-IP\":null,\"X-MSEdge-Ref\":null,\"Ddd-Debugid\":null}","url":"https://assets.msn.com/service/news/feed/pages/binghp?activityId=E8E601AE-EC7E-4AD6-96DA-8201C2EE0A31&apikey=QMmdky7jrTlM4mWJmMYQTi71lp678KyZJBKHCAyKCg&cm=pl-pl&it=app&ocid=bingHomepage-newsfeed&timeOut=2000&user=m-3EDE5079267D65313C0A43E927F66415&wpopageid=wponoads","isInitialRequest":true,"isFPRequest":"no"},"message":"Fell back to static content on the feeds call"}", source: https://assets.msn.com/bundles/v1/bingHomepage/latest/common.c18124aed27ce27a4ebb.js (9063)
+[0918/192404.303:WARNING:spdy_session.cc(3198)] Received HEADERS for invalid stream 1
+[0918/192404.304:WARNING:spdy_session.cc(3198)] Received HEADERS for invalid stream 43
+[0918/192404.305:WARNING:spdy_session.cc(3198)] Received HEADERS for invalid stream 53
+[0918/192404.307:WARNING:spdy_session.cc(3198)] Received HEADERS for invalid stream 35
+[0918/192404.308:WARNING:spdy_session.cc(3198)] Received HEADERS for invalid stream 39
+[0918/192404.315:WARNING:spdy_session.cc(3198)] Received HEADERS for invalid stream 63
+[0918/192404.315:WARNING:spdy_session.cc(3198)] Received HEADERS for invalid stream 19
+[0918/192404.318:INFO:CONSOLE(1)] "[Report Only] Refused to load the script 'https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-74PW3szunc7oNCBK0RPX9Kw0oU8Wlp+G1T/EumMhovc='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+", source: https://www.bing.com/?toWww=1&redig=EC8C7538F8184F21B88A96717A28023A (1)
+[0918/192410.051:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/?toWww=1&redig=EC8C7538F8184F21B88A96717A28023A (0)
+[0918/192417.290:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/?toWww=1&redig=EC8C7538F8184F21B88A96717A28023A (0)
+[0918/192423.536:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/?toWww=1&redig=EC8C7538F8184F21B88A96717A28023A (0)
+[0918/192429.981:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/?toWww=1&redig=EC8C7538F8184F21B88A96717A28023A (0)
+[0918/192438.574:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/?toWww=1&redig=EC8C7538F8184F21B88A96717A28023A (0)
+[0918/192441.890:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[0918/192602.815:WARNING:chrome_browser_cloud_management_controller.cc(88)] Could not create policy manager as CBCM is not enabled.
+[0918/192603.567:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[0918/192603.622:INFO:CONSOLE(1)] "[Report Only] Refused to load the script 'https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-y6kEhSPlsqVtcLSsksYw9d+GO1bWL+E/gZRAGSFM+Fs='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+", source: https://www.bing.com/?toWww=1&redig=A8FD6733A7CD47E88A0CBA85B82BC22E (1)
+[0918/192604.525:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[0918/192604.710:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771078 [7,6]
+[0918/192604.813:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[0918/192604.813:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[0918/192604.813:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[0918/192604.814:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[0918/192605.064:INFO:CONSOLE(18)] "BSSO Telemetry: {"result":"Error","error":"NoExtension","type":"ChromeSsoTelemetry","data":{},"traces":["BrowserSSO Initialized","Creating ChromeBrowserCore provider","Sending message for method CreateProviderAsync","Received message for method CreateProviderAsync","Error: ChromeBrowserCore error NoExtension: Extension is not installed."]}", source: https://aadcdn.msauth.net/shared/1.0/content/js/BssoInterrupt_Core_nun_Nob0yT2WjCUfgBCTog2.js (18)
+[0918/192605.261:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[0918/192605.261:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[0918/192605.262:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[0918/192605.262:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[0918/192605.263:INFO:CONSOLE(0)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://www.bing.com/orgid/idtoken/conditional (0)
+[0918/192608.937:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0918/192609.014:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[0918/192614.804:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0918/192620.102:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0918/192622.072:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0918/192622.087:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 34359738372 [8,4] will be ignored
+[0918/192622.300:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672965 [10,5]
+[0918/192622.566:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672965 [10,5]
+[0918/192622.567:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672965 [10,5]
+[0918/192622.567:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672965 [10,5]
+[0918/192622.567:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672965 [10,5]
+[0918/192622.570:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0918/192622.733:INFO:CONSOLE(4534)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/dbf5c200/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js (4534)
+[0918/192623.325:WARNING:obfuscated_file_util.cc(1410)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0918/192625.621:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0918/192625.651:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 38654705672 [9,8] will be ignored
+[0918/192625.697:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640261 [11,5]
+[0918/192625.883:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640261 [11,5]
+[0918/192625.884:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640261 [11,5]
+[0918/192625.884:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640261 [11,5]
+[0918/192625.884:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640261 [11,5]
+[0918/192625.887:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0918/192626.239:INFO:CONSOLE(4534)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/dbf5c200/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js (4534)
+[0918/192626.586:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192626.586:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192628.456:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192628.457:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192628.499:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192628.499:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 38654705686 [9,22] will be ignored
+[0918/192628.499:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 38654705686 [9,22] will be ignored
+[0918/192629.467:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192629.467:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192629.523:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192629.523:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 38654705687 [9,23] will be ignored
+[0918/192629.523:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 38654705687 [9,23] will be ignored
+[0918/192630.621:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0918/192630.628:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192630.639:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192630.639:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 38654705680 [9,16] will be ignored
+[0918/192631.994:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0918/192632.782:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0918/192633.316:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0918/192635.014:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 51539607556 [12,4] will be ignored
+[0918/192635.034:INFO:CONSOLE(1)] "[Report Only] Refused to load the script 'https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-y6kEhSPlsqVtcLSsksYw9d+GO1bWL+E/gZRAGSFM+Fs='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+", source: https://www.bing.com/?toWww=1&redig=A8FD6733A7CD47E88A0CBA85B82BC22E (1)
+[0918/192635.386:WARNING:browser_info.cc(309)] Returning a speculative frame for 68719476741 [16,5]
+[0918/192635.470:WARNING:browser_info.cc(309)] Returning a speculative frame for 68719476741 [16,5]
+[0918/192635.470:WARNING:browser_info.cc(309)] Returning a speculative frame for 68719476741 [16,5]
+[0918/192635.470:WARNING:browser_info.cc(309)] Returning a speculative frame for 68719476741 [16,5]
+[0918/192635.470:WARNING:browser_info.cc(309)] Returning a speculative frame for 68719476741 [16,5]
+[0918/192635.509:WARNING:browser_info.cc(309)] Returning a speculative frame for 73014444038 [17,6]
+[0918/192636.080:WARNING:browser_info.cc(309)] Returning a speculative frame for 64424509448 [15,8]
+[0918/192636.080:WARNING:browser_info.cc(309)] Returning a speculative frame for 64424509448 [15,8]
+[0918/192636.080:WARNING:browser_info.cc(309)] Returning a speculative frame for 64424509448 [15,8]
+[0918/192636.080:WARNING:browser_info.cc(309)] Returning a speculative frame for 64424509448 [15,8]
+[0918/192636.317:INFO:CONSOLE(0)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://www.bing.com/orgid/idtoken/conditional (0)
+[0918/192636.663:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0918/192636.763:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 64424509444 [15,4] will be ignored
+[0918/192637.633:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0918/192638.361:WARNING:browser_info.cc(309)] Returning a speculative frame for 81604378629 [19,5]
+[0918/192638.445:WARNING:browser_info.cc(309)] Returning a speculative frame for 81604378629 [19,5]
+[0918/192638.447:WARNING:browser_info.cc(309)] Returning a speculative frame for 81604378629 [19,5]
+[0918/192638.447:WARNING:browser_info.cc(309)] Returning a speculative frame for 81604378629 [19,5]
+[0918/192638.447:WARNING:browser_info.cc(309)] Returning a speculative frame for 81604378629 [19,5]
+[0918/192638.448:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0918/192638.641:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0918/192640.040:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0918/192640.517:WARNING:browser_info.cc(309)] Returning a speculative frame for 81604378635 [19,11]
+[0918/192640.593:WARNING:browser_info.cc(309)] Returning a speculative frame for 81604378635 [19,11]
+[0918/192640.593:WARNING:browser_info.cc(309)] Returning a speculative frame for 81604378635 [19,11]
+[0918/192640.594:WARNING:browser_info.cc(309)] Returning a speculative frame for 81604378635 [19,11]
+[0918/192640.594:WARNING:browser_info.cc(309)] Returning a speculative frame for 81604378635 [19,11]
+[0918/192640.596:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0918/192640.843:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 81604378637 [19,13] will be ignored
+[0918/192640.843:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 81604378637 [19,13] will be ignored
+[0918/192641.059:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0918/192643.688:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0918/192643.693:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 77309411332 [18,4] will be ignored
+[0918/192644.069:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0918/192644.075:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192644.075:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192654.910:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192654.912:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192654.912:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 77309411341 [18,13] will be ignored
+[0918/192655.371:INFO:CONSOLE(16)] "WARNING: Tried to load AngularJS more than once.", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0918/192655.454:INFO:CONSOLE(16)] "The namespace Purchasing.PurchaseDialog was not found", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0918/192655.498:INFO:CONSOLE(16)] "
+      _______      _________      _____       ______     _
+     / _____ \    |____ ____|    / ___ \     | ____ \   | |
+    / /     \_\       | |       / /   \ \    | |   \ \  | |
+    | |               | |      / /     \ \   | |   | |  | |
+    \ \______         | |      | |     | |   | |___/ /  | |
+     \______ \        | |      | |     | |   |  ____/   | |
+            \ \       | |      | |     | |   | |        | |
+     _      | |       | |      \ \     / /   | |        |_|
+    \ \_____/ /       | |       \ \___/ /    | |         _
+     \_______/        |_|        \_____/     |_|        |_|
+
+     Keep your account safe! Do not send any information from
+     here to anyone or paste any text here.
+
+     If someone is asking you to copy or paste text here then
+     you're giving someone access to your account, your gear,
+     and your Robux.
+
+     To learn more about keeping your account safe you can go to
+
+     https://www.roblox.com/info/account-safety", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0918/192655.596:INFO:CONSOLE(16)] "Add captcha types from new app: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0918/192656.035:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:244 (compileToBinary): 
+C:\fakepath(155,3-70): warning X3557: loop only executes for 1 iteration(s), forcing loop to unroll
+
+[0918/192659.150:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[0918/192700.168:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[0918/192700.962:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[0918/192709.217:WARNING:browser_info.cc(309)] Returning a speculative frame for 94489280518 [22,6]
+[0918/192709.249:WARNING:browser_info.cc(309)] Returning a speculative frame for 94489280518 [22,6]
+[0918/192709.249:WARNING:browser_info.cc(309)] Returning a speculative frame for 94489280518 [22,6]
+[0918/192709.249:WARNING:browser_info.cc(309)] Returning a speculative frame for 94489280518 [22,6]
+[0918/192709.249:WARNING:browser_info.cc(309)] Returning a speculative frame for 94489280518 [22,6]
+[0918/192709.252:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.", source:  (0)
+[0918/192713.532:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 90194313220 [21,4] will be ignored
+[0918/192713.651:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192713.651:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192713.774:INFO:CONSOLE(16)] "WARNING: Tried to load AngularJS more than once.", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0918/192713.849:INFO:CONSOLE(16)] "The namespace Purchasing.PurchaseDialog was not found", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0918/192713.880:INFO:CONSOLE(16)] "
+      _______      _________      _____       ______     _
+     / _____ \    |____ ____|    / ___ \     | ____ \   | |
+    / /     \_\       | |       / /   \ \    | |   \ \  | |
+    | |               | |      / /     \ \   | |   | |  | |
+    \ \______         | |      | |     | |   | |___/ /  | |
+     \______ \        | |      | |     | |   |  ____/   | |
+            \ \       | |      | |     | |   | |        | |
+     _      | |       | |      \ \     / /   | |        |_|
+    \ \_____/ /       | |       \ \___/ /    | |         _
+     \_______/        |_|        \_____/     |_|        |_|
+
+     Keep your account safe! Do not send any information from
+     here to anyone or paste any text here.
+
+     If someone is asking you to copy or paste text here then
+     you're giving someone access to your account, your gear,
+     and your Robux.
+
+     To learn more about keeping your account safe you can go to
+
+     https://www.roblox.com/info/account-safety", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0918/192714.004:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192714.004:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192714.009:INFO:CONSOLE(16)] "Account Security Prompt: No assignments were retrieved", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0918/192714.021:INFO:CONSOLE(16)] "1695058033955: process queue start [object Object]", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0918/192714.022:INFO:CONSOLE(16)] "1695058033955: process queue start [object Object]", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0918/192714.031:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'https://lms.roblox.com/recipe?iteration=0' from origin 'https://web.roblox.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.", source: https://web.roblox.com/home?nu=true (0)
+[0918/192714.036:INFO:CONSOLE(16)] "[2023-09-18T17:27:14.035Z] Information: WebSocket connected to wss://realtime-signalr.roblox.com/userhub.", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0918/192714.056:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192714.056:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192714.122:INFO:CONSOLE(16)] "The translation key 'Response.InternalServerErrorDescription' not found. Please check for a missing string or a typo.", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0918/192714.342:INFO:CONSOLE(16)] "1695058033955: process queue ended [object Object]", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0918/192714.419:INFO:CONSOLE(16)] "1695058033955: process queue ended [object Object]", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0918/192715.128:INFO:CONSOLE(16)] "1695058033955: process queue start [object Object]", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0918/192715.419:INFO:CONSOLE(16)] "1695058033955: process queue ended [object Object]", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0918/192718.948:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192718.948:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192718.949:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192718.952:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192718.980:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192718.980:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192719.060:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192719.060:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192719.181:INFO:CONSOLE(16)] "WARNING: Tried to load AngularJS more than once.", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0918/192719.224:INFO:CONSOLE(16)] "Account Security Prompt: No assignments were retrieved", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0918/192719.249:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192719.249:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192719.288:INFO:CONSOLE(16)] "
+      _______      _________      _____       ______     _
+     / _____ \    |____ ____|    / ___ \     | ____ \   | |
+    / /     \_\       | |       / /   \ \    | |   \ \  | |
+    | |               | |      / /     \ \   | |   | |  | |
+    \ \______         | |      | |     | |   | |___/ /  | |
+     \______ \        | |      | |     | |   |  ____/   | |
+            \ \       | |      | |     | |   | |        | |
+     _      | |       | |      \ \     / /   | |        |_|
+    \ \_____/ /       | |       \ \___/ /    | |         _
+     \_______/        |_|        \_____/     |_|        |_|
+
+     Keep your account safe! Do not send any information from
+     here to anyone or paste any text here.
+
+     If someone is asking you to copy or paste text here then
+     you're giving someone access to your account, your gear,
+     and your Robux.
+
+     To learn more about keeping your account safe you can go to
+
+     https://www.roblox.com/info/account-safety", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0918/192719.431:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192719.431:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192719.434:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'https://lms.roblox.com/recipe?iteration=0' from origin 'https://web.roblox.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.", source: https://web.roblox.com/games/4543144283/Mega-Noob-Simulator (0)
+[0918/192719.435:INFO:CONSOLE(16)] "1695058039349: process queue start [object Object]", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0918/192719.435:INFO:CONSOLE(16)] "1695058039349: process queue start [object Object]", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0918/192719.510:INFO:CONSOLE(16)] "The translation key 'Response.InternalServerErrorDescription' not found. Please check for a missing string or a typo.", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0918/192719.608:INFO:CONSOLE(16)] "1695058039349: process queue ended [object Object]", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0918/192719.608:INFO:CONSOLE(16)] "1695058039349: process queue start [object Object]", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0918/192719.616:INFO:CONSOLE(16)] "1695058039349: process queue ended [object Object]", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0918/192719.689:INFO:CONSOLE(16)] "1695058039349: process queue start [object Object]", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0918/192719.725:INFO:CONSOLE(16)] "1695058039349: process queue start [object Object]", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0918/192719.773:INFO:CONSOLE(16)] "1695058039349: process queue ended [object Object]", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0918/192719.857:INFO:CONSOLE(16)] "1695058039349: process queue ended [object Object]", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0918/192719.891:INFO:CONSOLE(16)] "1695058039349: process queue ended [object Object]", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0918/192721.441:WARNING:browser_info.cc(309)] Returning a speculative frame for 98784247816 [23,8]
+[0918/192721.447:WARNING:browser_info.cc(309)] Returning a speculative frame for 98784247816 [23,8]
+[0918/192723.017:INFO:CONSOLE(16)] "[2023-09-18T17:27:23.016Z] Information: WebSocket connected to wss://realtime-signalr.roblox.com/userhub.", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0918/192732.646:INFO:CONSOLE(16)] "-------------Inactive -------------", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0918/192749.190:INFO:CONSOLE(16)] "-----------mouseover------------ Active", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0918/192755.095:INFO:CONSOLE(16)] "-------------Inactive -------------", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0918/192801.295:INFO:CONSOLE(16)] "-------------Inactive -------------", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0918/192801.533:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0918/192801.539:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192801.540:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192801.541:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192801.544:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/192801.544:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 90194313230 [21,14] will be ignored
+[0918/192959.427:WARNING:chrome_browser_cloud_management_controller.cc(88)] Could not create policy manager as CBCM is not enabled.
+[0918/193000.144:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[0918/193000.551:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0918/193003.861:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0918/193005.430:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 25769803780 [6,4] will be ignored
+[0918/193005.526:INFO:CONSOLE(134)] "[Report Only] This document requires 'TrustedScriptURL' assignment.", source: https://www.google.com/gmail/about/ (134)
+[0918/193009.351:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0918/193009.360:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 25769803785 [6,9] will be ignored
+[0918/193013.265:WARNING:chrome_browser_cloud_management_controller.cc(88)] Could not create policy manager as CBCM is not enabled.
+[0918/193013.938:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[0918/193014.581:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0918/193016.475:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0918/193024.028:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 25769803781 [6,5] will be ignored
+[0918/193024.030:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 25769803780 [6,4] will be ignored
+[0918/193139.061:WARNING:chrome_browser_cloud_management_controller.cc(88)] Could not create policy manager as CBCM is not enabled.
+[0918/193139.769:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[0918/193140.387:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0918/193145.884:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0918/193145.900:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 25769803780 [6,4] will be ignored
+[0918/193146.039:INFO:CONSOLE(290)] "%c%s color: red; background: yellow; font-size: 24px; OSTRZEÅ»ENIE!", source: https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.pl.pfjgnQRoTqw.es5.O/am=eRwAImYeYwDxn9L5nnFyGAAAAAAAAAAAYA13/d=1/excm=_b,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlHwnfzV0MXxLp3YzbQpTx-wnMEAKg/m=_b,_tp (290)
+[0918/193146.040:INFO:CONSOLE(290)] "%c%s font-size: 18px; Korzystanie z tej konsoli moÅ¼e umoÅ¼liwiÄ‡ hakerom podszywanie siÄ™ pod Ciebie i kradzieÅ¼ Twoich informacji przy uÅ¼yciu ataku zwanego Self-XSS.
+Nie wpisuj ani nie wklejaj kodu, ktÃ³rego nie rozumiesz.", source: https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.pl.pfjgnQRoTqw.es5.O/am=eRwAImYeYwDxn9L5nnFyGAAAAAAAAAAAYA13/d=1/excm=_b,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlHwnfzV0MXxLp3YzbQpTx-wnMEAKg/m=_b,_tp (290)
+[0918/193146.246:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771077 [7,5]
+[0918/193146.310:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771077 [7,5]
+[0918/193146.311:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771077 [7,5]
+[0918/193146.311:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771077 [7,5]
+[0918/193146.311:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771077 [7,5]
+[0918/193146.313:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0918/193146.328:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0918/193146.335:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/193146.335:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/193146.353:ERROR:device_event_log_impl.cc(222)] [19:31:46.353] Bluetooth: bluetooth_adapter_winrt.cc:1058 Getting Default Adapter failed.
+[0918/193146.360:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/193146.360:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/193146.430:ERROR:CefAppUnmanagedWrapper.cpp(329)] Failed to identify BrowserWrapper in OnContextCreated BrowserId:1
+[0918/193146.431:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 25769803789 [6,13] will be ignored
+[0918/193146.431:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 25769803789 [6,13] will be ignored
+[0918/193147.230:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0918/193147.238:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 25769803784 [6,8] will be ignored
+[0918/193946.379:WARNING:chrome_browser_cloud_management_controller.cc(88)] Could not create policy manager as CBCM is not enabled.
+[0918/193946.407:INFO:component_installer.cc(291)] Failed to read manifest for Widevine Content Decryption Module (C:\Users\Gaming\AppData\Local\CEF\User Data\WidevineCdm\4.10.2662.3).: Odmowa dostêpu. (0x5)
+[0918/193946.880:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[0918/193948.303:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0918/193953.194:WARNING:chrome_browser_cloud_management_controller.cc(88)] Could not create policy manager as CBCM is not enabled.
+[0918/193953.221:INFO:component_installer.cc(291)] Failed to read manifest for Widevine Content Decryption Module (C:\Users\Gaming\AppData\Local\CEF\User Data\WidevineCdm\4.10.2662.3).: Odmowa dostêpu. (0x5)
+[0918/193953.652:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[0918/193954.676:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0918/193956.825:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0918/193957.761:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 25769803781 [6,5] will be ignored
+[0918/193957.763:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 25769803780 [6,4] will be ignored
+[0918/195522.043:WARNING:chrome_browser_cloud_management_controller.cc(88)] Could not create policy manager as CBCM is not enabled.
+[0918/195522.078:INFO:component_installer.cc(291)] Failed to read manifest for Widevine Content Decryption Module (C:\Users\Gaming\AppData\Local\CEF\User Data\WidevineCdm\4.10.2662.3).: Odmowa dostêpu. (0x5)
+[0918/195523.010:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[0918/195523.070:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0918/195937.018:WARNING:chrome_browser_cloud_management_controller.cc(88)] Could not create policy manager as CBCM is not enabled.
+[0918/195937.048:INFO:component_installer.cc(291)] Failed to read manifest for Widevine Content Decryption Module (C:\Users\Gaming\AppData\Local\CEF\User Data\WidevineCdm\4.10.2662.3).: Odmowa dostêpu. (0x5)
+[0918/195937.537:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[0918/195937.999:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0919/113358.815:WARNING:chrome_browser_cloud_management_controller.cc(88)] Could not create policy manager as CBCM is not enabled.
+[0919/113358.917:INFO:component_installer.cc(297)] Failed to verify installation for Widevine Content Decryption Module (C:\Users\Gaming\AppData\Local\CEF\User Data\WidevineCdm\4.10.2557.0).: System nie mo¿e odnaleŸæ okreœlonej œcie¿ki. (0x3)
+[0919/113358.918:INFO:component_installer.cc(291)] Failed to read manifest for Widevine Content Decryption Module (C:\Users\Gaming\AppData\Local\CEF\User Data\WidevineCdm\4.10.2662.3).: Odmowa dostêpu. (0x5)
+[0919/113400.518:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'unload'.", source:  (0)
+[0919/113401.006:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[0919/113414.146:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 25769803780 [6,4] will be ignored
+[0919/113426.728:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 34359738372 [8,4] will be ignored
+[0919/113427.206:INFO:CONSOLE(16)] "WARNING: Tried to load AngularJS more than once.", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0919/113427.313:INFO:CONSOLE(16)] "The namespace Purchasing.PurchaseDialog was not found", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0919/113427.348:INFO:CONSOLE(16)] "
+      _______      _________      _____       ______     _
+     / _____ \    |____ ____|    / ___ \     | ____ \   | |
+    / /     \_\       | |       / /   \ \    | |   \ \  | |
+    | |               | |      / /     \ \   | |   | |  | |
+    \ \______         | |      | |     | |   | |___/ /  | |
+     \______ \        | |      | |     | |   |  ____/   | |
+            \ \       | |      | |     | |   | |        | |
+     _      | |       | |      \ \     / /   | |        |_|
+    \ \_____/ /       | |       \ \___/ /    | |         _
+     \_______/        |_|        \_____/     |_|        |_|
+
+     Keep your account safe! Do not send any information from
+     here to anyone or paste any text here.
+
+     If someone is asking you to copy or paste text here then
+     you're giving someone access to your account, your gear,
+     and your Robux.
+
+     To learn more about keeping your account safe you can go to
+
+     https://www.roblox.com/info/account-safety", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0919/113427.462:INFO:CONSOLE(16)] "Add captcha types from new app: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0919/113429.907:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[0919/113430.783:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[0919/113431.515:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[0919/113438.974:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640262 [11,6]
+[0919/113439.008:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640262 [11,6]
+[0919/113439.009:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640262 [11,6]
+[0919/113439.009:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640262 [11,6]
+[0919/113439.009:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640262 [11,6]
+[0919/113439.012:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.", source:  (0)
+[0919/113442.819:INFO:CONSOLE(16)] "WARNING: Tried to load AngularJS more than once.", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0919/113442.911:INFO:CONSOLE(16)] "The namespace Purchasing.PurchaseDialog was not found", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0919/113442.966:INFO:CONSOLE(16)] "
+      _______      _________      _____       ______     _
+     / _____ \    |____ ____|    / ___ \     | ____ \   | |
+    / /     \_\       | |       / /   \ \    | |   \ \  | |
+    | |               | |      / /     \ \   | |   | |  | |
+    \ \______         | |      | |     | |   | |___/ /  | |
+     \______ \        | |      | |     | |   |  ____/   | |
+            \ \       | |      | |     | |   | |        | |
+     _      | |       | |      \ \     / /   | |        |_|
+    \ \_____/ /       | |       \ \___/ /    | |         _
+     \_______/        |_|        \_____/     |_|        |_|
+
+     Keep your account safe! Do not send any information from
+     here to anyone or paste any text here.
+
+     If someone is asking you to copy or paste text here then
+     you're giving someone access to your account, your gear,
+     and your Robux.
+
+     To learn more about keeping your account safe you can go to
+
+     https://www.roblox.com/info/account-safety", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0919/113443.082:INFO:CONSOLE(16)] "Account Security Prompt: No assignments were retrieved", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0919/113443.091:INFO:CONSOLE(16)] "1695116083032: process queue start [object Object]", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0919/113443.092:INFO:CONSOLE(16)] "1695116083032: process queue start [object Object]", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0919/113443.124:INFO:CONSOLE(16)] "[2023-09-19T09:34:43.124Z] Information: WebSocket connected to wss://realtime-signalr.roblox.com/userhub.", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0919/113443.449:INFO:CONSOLE(16)] "1695116083032: process queue ended [object Object]", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0919/113443.523:INFO:CONSOLE(16)] "1695116083032: process queue ended [object Object]", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0919/113444.104:INFO:CONSOLE(16)] "1695116083032: process queue start [object Object]", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0919/113444.364:INFO:CONSOLE(16)] "1695116083032: process queue ended [object Object]", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0919/113450.347:INFO:CONSOLE(16)] "WARNING: Tried to load AngularJS more than once.", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0919/113450.378:INFO:CONSOLE(16)] "Account Security Prompt: No assignments were retrieved", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0919/113450.538:INFO:CONSOLE(16)] "
+      _______      _________      _____       ______     _
+     / _____ \    |____ ____|    / ___ \     | ____ \   | |
+    / /     \_\       | |       / /   \ \    | |   \ \  | |
+    | |               | |      / /     \ \   | |   | |  | |
+    \ \______         | |      | |     | |   | |___/ /  | |
+     \______ \        | |      | |     | |   |  ____/   | |
+            \ \       | |      | |     | |   | |        | |
+     _      | |       | |      \ \     / /   | |        |_|
+    \ \_____/ /       | |       \ \___/ /    | |         _
+     \_______/        |_|        \_____/     |_|        |_|
+
+     Keep your account safe! Do not send any information from
+     here to anyone or paste any text here.
+
+     If someone is asking you to copy or paste text here then
+     you're giving someone access to your account, your gear,
+     and your Robux.
+
+     To learn more about keeping your account safe you can go to
+
+     https://www.roblox.com/info/account-safety", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0919/113450.665:INFO:CONSOLE(16)] "1695116090595: process queue start [object Object]", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0919/113450.665:INFO:CONSOLE(16)] "1695116090595: process queue start [object Object]", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0919/113450.830:INFO:CONSOLE(16)] "1695116090595: process queue ended [object Object]", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0919/113450.833:INFO:CONSOLE(16)] "1695116090595: process queue ended [object Object]", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0919/113450.875:INFO:CONSOLE(16)] "1695116090595: process queue start [object Object]", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0919/113450.895:INFO:CONSOLE(16)] "1695116090595: process queue start [object Object]", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0919/113451.056:INFO:CONSOLE(16)] "1695116090595: process queue ended [object Object]", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0919/113451.094:INFO:CONSOLE(16)] "1695116090595: process queue ended [object Object]", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0919/113452.390:WARNING:browser_info.cc(309)] Returning a speculative frame for 51539607560 [12,8]
+[0919/113452.394:WARNING:browser_info.cc(309)] Returning a speculative frame for 51539607560 [12,8]
+[0919/113454.556:INFO:CONSOLE(16)] "[2023-09-19T09:34:54.556Z] Information: WebSocket connected to wss://realtime-signalr.roblox.com/userhub.", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0919/113505.286:INFO:CONSOLE(16)] "-------------Inactive -------------", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[0919/113509.364:INFO:CONSOLE(16)] "-------------Inactive -------------", source: https://js.rbxcdn.com/edc66704bd1974195d8c60f4a163441bec82f1bcb11c492e7df07c43f45a4d49.js (16)
+[1014/193456.758:WARNING:chrome_browser_cloud_management_controller.cc(88)] Could not create policy manager as CBCM is not enabled.
+[1014/193457.011:INFO:component_installer.cc(291)] Failed to read manifest for Widevine Content Decryption Module (C:\Users\Gaming\AppData\Local\CEF\User Data\WidevineCdm\4.10.2662.3).: Odmowa dostêpu. (0x5)
+[1014/193500.067:INFO:CONSOLE(1)] "[Report Only] Refused to load the script 'https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-/JlBrjHBqE1tf9B1dIcfdQO+dgPH6x/igc6EJ1EhY9Q='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+", source: https://www.bing.com/ (1)
+[1014/193500.094:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[1014/193501.375:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/193501.621:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/193501.621:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/193501.621:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/193501.622:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/193501.629:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771078 [7,6]
+[1014/193501.855:INFO:CONSOLE(18)] "BSSO Telemetry: {"result":"Error","error":"NoExtension","type":"ChromeSsoTelemetry","data":{},"traces":["BrowserSSO Initialized","Creating ChromeBrowserCore provider","Sending message for method CreateProviderAsync","Received message for method CreateProviderAsync","Error: ChromeBrowserCore error NoExtension: Extension is not installed."]}", source: https://aadcdn.msauth.net/shared/1.0/content/js/BssoInterrupt_Core_pOO34JFwD1EVcxt413xLZg2.js (18)
+[1014/193502.088:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/193502.088:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/193502.089:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/193502.089:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/193502.091:INFO:CONSOLE(0)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://www.bing.com/orgid/idtoken/conditional (0)
+[1014/193507.519:INFO:CONSOLE(6)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx (6)
+[1014/193507.523:INFO:CONSOLE(6)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx (6)
+[1014/193507.523:INFO:CONSOLE(6)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx (6)
+[1014/193507.523:INFO:CONSOLE(6)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx (6)
+[1014/193507.523:INFO:CONSOLE(6)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx (6)
+[1014/193509.580:WARNING:browser_info.cc(309)] Returning a speculative frame for 34359738374 [8,6]
+[1014/193509.754:WARNING:browser_info.cc(309)] Returning a speculative frame for 34359738374 [8,6]
+[1014/193509.754:WARNING:browser_info.cc(309)] Returning a speculative frame for 34359738374 [8,6]
+[1014/193509.755:WARNING:browser_info.cc(309)] Returning a speculative frame for 34359738374 [8,6]
+[1014/193509.755:WARNING:browser_info.cc(309)] Returning a speculative frame for 34359738374 [8,6]
+[1014/193509.865:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:244 (compileToBinary): 
+C:\fakepath(141,3-70): warning X3557: loop only executes for 1 iteration(s), forcing loop to unroll
+
+[1014/193517.786:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640263 [11,7]
+[1014/193517.845:WARNING:browser_info.cc(309)] Returning a speculative frame for 51539607559 [12,7]
+[1014/193517.845:WARNING:browser_info.cc(309)] Returning a speculative frame for 51539607559 [12,7]
+[1014/193517.845:WARNING:browser_info.cc(309)] Returning a speculative frame for 51539607559 [12,7]
+[1014/193517.846:WARNING:browser_info.cc(309)] Returning a speculative frame for 51539607559 [12,7]
+[1014/193517.938:WARNING:browser_info.cc(309)] Returning a speculative frame for 51539607559 [12,7]
+[1014/193517.945:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'browsing-topics'.", source:  (0)
+[1014/193517.945:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.", source:  (0)
+[1014/193518.585:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 51539607562 [12,10] will be ignored
+[1014/193518.585:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 51539607562 [12,10] will be ignored
+[1014/193518.749:INFO:CONSOLE(1)] "phZa", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=816193f90a923506 (1)
+[1014/193518.749:INFO:CONSOLE(1)] "phZa", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=816193f90a923506 (1)
+[1014/193518.750:INFO:CONSOLE(1)] "OAQr", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=816193f90a923506 (1)
+[1014/193518.750:INFO:CONSOLE(1)] "OAQr", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=816193f90a923506 (1)
+[1014/193518.751:INFO:CONSOLE(1)] "[object HTMLAnchorElement]", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=816193f90a923506 (1)
+[1014/193518.751:INFO:CONSOLE(1)] "[object HTMLAnchorElement]", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=816193f90a923506 (1)
+[1014/193518.752:INFO:CONSOLE(1)] "%c%d: 1", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=816193f90a923506 (1)
+[1014/193518.752:INFO:CONSOLE(1)] "%c%d: 1", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=816193f90a923506 (1)
+[1014/193518.753:INFO:CONSOLE(1)] "%c%d font-size:0;color:transparent NaN", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=816193f90a923506 (1)
+[1014/193518.754:INFO:CONSOLE(1)] "%c%d font-size:0;color:transparent NaN", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=816193f90a923506 (1)
+[1014/193518.754:INFO:CONSOLE(1)] "%c%d font-size:0;color:transparent rgTH: sIeE", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=816193f90a923506 (1)
+[1014/193518.755:INFO:CONSOLE(1)] "%c%d font-size:0;color:transparent rgTH: sIeE", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=816193f90a923506 (1)
+[1014/193518.756:INFO:CONSOLE(1)] "%c%d font-size:0;color:transparent rgTH: sIeE", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=816193f90a923506 (1)
+[1014/193518.756:INFO:CONSOLE(1)] "%c%d font-size:0;color:transparent rgTH: sIeE", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=816193f90a923506 (1)
+[1014/193518.757:INFO:CONSOLE(1)] "%c%d font-size:0;color:transparent NaN", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=816193f90a923506 (1)
+[1014/193518.758:INFO:CONSOLE(1)] "%c%d font-size:0;color:transparent NaN", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=816193f90a923506 (1)
+[1014/193518.758:INFO:CONSOLE(1)] "%c%d font-size:0;color:transparent NaN", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=816193f90a923506 (1)
+[1014/193518.759:INFO:CONSOLE(1)] "%c%d font-size:0;color:transparent NaN", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=816193f90a923506 (1)
+[1014/193518.759:INFO:CONSOLE(1)] "%c%d font-size:0;color:transparent NaN", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=816193f90a923506 (1)
+[1014/193518.760:INFO:CONSOLE(1)] "%c%d font-size:0;color:transparent NaN", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=816193f90a923506 (1)
+[1014/193518.760:INFO:CONSOLE(1)] "%c%d font-size:0;color:transparent rgTH: sIeE", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=816193f90a923506 (1)
+[1014/193518.761:INFO:CONSOLE(1)] "%c%d font-size:0;color:transparent rgTH: sIeE", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=816193f90a923506 (1)
+[1014/193518.761:INFO:CONSOLE(1)] "%c%d font-size:0;color:transparent NaN", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=816193f90a923506 (1)
+[1014/193518.762:INFO:CONSOLE(1)] "%c%d font-size:0;color:transparent NaN", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=816193f90a923506 (1)
+[1014/193518.762:INFO:CONSOLE(1)] "%c%d font-size:0;color:transparent NaN", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=816193f90a923506 (1)
+[1014/193518.763:INFO:CONSOLE(1)] "%c%d font-size:0;color:transparent NaN", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=816193f90a923506 (1)
+[1014/193518.764:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 51539607564 [12,12] will be ignored
+[1014/193518.764:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 51539607564 [12,12] will be ignored
+[1014/193518.769:INFO:CONSOLE(1)] "console.groupEnd", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=816193f90a923506 (1)
+[1014/193519.429:INFO:CONSOLE(1)] "Request for the Private Access Token challenge.", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=816193f90a923506 (1)
+[1014/193519.430:INFO:CONSOLE(1)] "The next request for the Private Access Token challenge may return a 401 and show a warning in console.", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=816193f90a923506 (1)
+[1014/193519.456:INFO:CONSOLE(1)] "console.groupEnd", source: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=816193f90a923506 (1)
+[1014/193522.368:INFO:CONSOLE(1)] "[Report Only] Refused to run the JavaScript URL because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-KR3f7i7qbPN3YJulkXj5D1BACsc5QxLgu2Rrb4wDEaA='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution. Note that hashes do not apply to event handlers, style attributes and javascript: navigations unless the 'unsafe-hashes' keyword is present.
+", source: https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx (1)
+[1014/193522.369:INFO:CONSOLE(1)] "[Report Only] Refused to run the JavaScript URL because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-KR3f7i7qbPN3YJulkXj5D1BACsc5QxLgu2Rrb4wDEaA='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution. Note that hashes do not apply to event handlers, style attributes and javascript: navigations unless the 'unsafe-hashes' keyword is present.
+", source: https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx (1)
+[1014/193522.740:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[1014/193546.066:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 55834574852 [13,4] will be ignored
+[1014/193546.216:INFO:CONSOLE(6)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx&wlexpsignin=1 (6)
+[1014/193546.219:INFO:CONSOLE(6)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx&wlexpsignin=1 (6)
+[1014/193546.219:INFO:CONSOLE(6)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx&wlexpsignin=1 (6)
+[1014/193546.219:INFO:CONSOLE(6)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx&wlexpsignin=1 (6)
+[1014/193546.220:INFO:CONSOLE(6)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx&wlexpsignin=1 (6)
+[1014/193546.220:INFO:CONSOLE(6)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx&wlexpsignin=1 (6)
+[1014/193546.220:INFO:CONSOLE(6)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx&wlexpsignin=1 (6)
+[1014/193547.256:WARNING:browser_info.cc(309)] Returning a speculative frame for 64424509445 [15,5]
+[1014/193547.337:WARNING:browser_info.cc(309)] Returning a speculative frame for 64424509445 [15,5]
+[1014/193547.338:WARNING:browser_info.cc(309)] Returning a speculative frame for 64424509445 [15,5]
+[1014/193547.338:WARNING:browser_info.cc(309)] Returning a speculative frame for 64424509445 [15,5]
+[1014/193547.338:WARNING:browser_info.cc(309)] Returning a speculative frame for 64424509445 [15,5]
+[1014/193547.617:WARNING:browser_info.cc(309)] Returning a speculative frame for 60129542152 [14,8]
+[1014/193547.617:WARNING:browser_info.cc(309)] Returning a speculative frame for 60129542152 [14,8]
+[1014/193547.617:WARNING:browser_info.cc(309)] Returning a speculative frame for 60129542152 [14,8]
+[1014/193547.617:WARNING:browser_info.cc(309)] Returning a speculative frame for 60129542152 [14,8]
+[1014/193547.687:INFO:CONSOLE(0)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://www.bing.com/orgid/idtoken/nosignin (0)
+[1014/193551.223:INFO:CONSOLE(1)] "[Report Only] Refused to run the JavaScript URL because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-s1Ws+mmOPQ3NV2OIoApXzvPx3XuxBJwuKtSR4g7JxZk='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution. Note that hashes do not apply to event handlers, style attributes and javascript: navigations unless the 'unsafe-hashes' keyword is present.
+", source: https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx&wlexpsignin=1 (1)
+[1014/193551.224:INFO:CONSOLE(1)] "[Report Only] Refused to run the JavaScript URL because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-s1Ws+mmOPQ3NV2OIoApXzvPx3XuxBJwuKtSR4g7JxZk='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution. Note that hashes do not apply to event handlers, style attributes and javascript: navigations unless the 'unsafe-hashes' keyword is present.
+", source: https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx&wlexpsignin=1 (1)
+[1014/193552.769:INFO:CONSOLE(6)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx&wlexpsignin=1&setlang=pl&sid=09A1EDB4DD1F61B61A08FE1EDC146052 (6)
+[1014/193552.770:INFO:CONSOLE(6)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx&wlexpsignin=1&setlang=pl&sid=09A1EDB4DD1F61B61A08FE1EDC146052 (6)
+[1014/193552.770:INFO:CONSOLE(6)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx&wlexpsignin=1&setlang=pl&sid=09A1EDB4DD1F61B61A08FE1EDC146052 (6)
+[1014/193552.770:INFO:CONSOLE(6)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx&wlexpsignin=1&setlang=pl&sid=09A1EDB4DD1F61B61A08FE1EDC146052 (6)
+[1014/193552.770:INFO:CONSOLE(6)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx&wlexpsignin=1&setlang=pl&sid=09A1EDB4DD1F61B61A08FE1EDC146052 (6)
+[1014/193552.770:INFO:CONSOLE(6)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx&wlexpsignin=1&setlang=pl&sid=09A1EDB4DD1F61B61A08FE1EDC146052 (6)
+[1014/193552.771:INFO:CONSOLE(6)] "Rendering was performed in a subtree hidden by content-visibility.", source: https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx&wlexpsignin=1&setlang=pl&sid=09A1EDB4DD1F61B61A08FE1EDC146052 (6)
+[1014/193553.973:WARNING:browser_info.cc(309)] Returning a speculative frame for 68719476741 [16,5]
+[1014/193554.038:WARNING:browser_info.cc(309)] Returning a speculative frame for 68719476741 [16,5]
+[1014/193554.038:WARNING:browser_info.cc(309)] Returning a speculative frame for 68719476741 [16,5]
+[1014/193554.039:WARNING:browser_info.cc(309)] Returning a speculative frame for 68719476741 [16,5]
+[1014/193554.039:WARNING:browser_info.cc(309)] Returning a speculative frame for 68719476741 [16,5]
+[1014/193554.165:WARNING:browser_info.cc(309)] Returning a speculative frame for 60129542157 [14,13]
+[1014/193554.165:WARNING:browser_info.cc(309)] Returning a speculative frame for 60129542157 [14,13]
+[1014/193554.165:WARNING:browser_info.cc(309)] Returning a speculative frame for 60129542157 [14,13]
+[1014/193554.165:WARNING:browser_info.cc(309)] Returning a speculative frame for 60129542157 [14,13]
+[1014/193554.167:INFO:CONSOLE(0)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://www.bing.com/orgid/idtoken/nosignin (0)
+[1014/193619.144:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 60129542148 [14,4] will be ignored
+[1014/193619.347:INFO:CONSOLE(57483)] "%cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold", source: http://localhost:3000/static/js/bundle.js (57483)
+[1014/193619.435:INFO:CONSOLE(19459)] "No routes matched location "/" ", source: http://localhost:3000/static/js/bundle.js (19459)
+[1014/193619.436:INFO:CONSOLE(19459)] "No routes matched location "/" ", source: http://localhost:3000/static/js/bundle.js (19459)
+[1014/193903.215:WARNING:chrome_browser_cloud_management_controller.cc(88)] Could not create policy manager as CBCM is not enabled.
+[1014/193903.277:INFO:component_installer.cc(291)] Failed to read manifest for Widevine Content Decryption Module (C:\Users\Gaming\AppData\Local\CEF\User Data\WidevineCdm\4.10.2662.3).: Odmowa dostêpu. (0x5)
+[1014/193904.181:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[1014/193904.311:INFO:CONSOLE(1)] "[Report Only] Refused to load the script 'https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-hwrscdFWNj/AZqFQenKKASP5njGIYt2UXEDh2ASWg1M='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+", source: https://www.bing.com/ (1)
+[1014/193905.088:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/193905.291:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/193905.291:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/193905.291:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/193905.291:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/193905.422:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771078 [7,6]
+[1014/193905.491:INFO:CONSOLE(18)] "BSSO Telemetry: {"result":"Error","error":"NoExtension","type":"ChromeSsoTelemetry","data":{},"traces":["BrowserSSO Initialized","Creating ChromeBrowserCore provider","Sending message for method CreateProviderAsync","Received message for method CreateProviderAsync","Error: ChromeBrowserCore error NoExtension: Extension is not installed."]}", source: https://aadcdn.msftauth.net/shared/1.0/content/js/BssoInterrupt_Core_pOO34JFwD1EVcxt413xLZg2.js (18)
+[1014/193905.637:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/193905.638:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/193905.638:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/193905.638:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/193905.640:INFO:CONSOLE(0)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://www.bing.com/orgid/idtoken/conditional (0)
+[1014/193906.944:INFO:CONSOLE(1)] "[Report Only] Refused to run the JavaScript URL because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-hwrscdFWNj/AZqFQenKKASP5njGIYt2UXEDh2ASWg1M='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution. Note that hashes do not apply to event handlers, style attributes and javascript: navigations unless the 'unsafe-hashes' keyword is present.
+", source: https://www.bing.com/ (1)
+[1014/193906.945:INFO:CONSOLE(1)] "[Report Only] Refused to run the JavaScript URL because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-hwrscdFWNj/AZqFQenKKASP5njGIYt2UXEDh2ASWg1M='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution. Note that hashes do not apply to event handlers, style attributes and javascript: navigations unless the 'unsafe-hashes' keyword is present.
+", source: https://www.bing.com/ (1)
+[1014/193908.922:INFO:CONSOLE(1)] "[Report Only] Refused to run the JavaScript URL because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-hwrscdFWNj/AZqFQenKKASP5njGIYt2UXEDh2ASWg1M='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution. Note that hashes do not apply to event handlers, style attributes and javascript: navigations unless the 'unsafe-hashes' keyword is present.
+", source: https://www.bing.com/ (1)
+[1014/193908.923:INFO:CONSOLE(1)] "[Report Only] Refused to run the JavaScript URL because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-hwrscdFWNj/AZqFQenKKASP5njGIYt2UXEDh2ASWg1M='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution. Note that hashes do not apply to event handlers, style attributes and javascript: navigations unless the 'unsafe-hashes' keyword is present.
+", source: https://www.bing.com/ (1)
+[1014/193914.489:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[1014/193915.534:WARNING:CONSOLE(1)] "No handler registered for issue code NavigatorUserAgentIssue", source: devtools://devtools/models/issues_manager/issues_manager.js (1)
+[1014/193918.574:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1014/193923.848:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1014/193928.438:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1014/193934.265:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1014/193936.695:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[1014/193936.907:WARNING:CONSOLE(1)] "No handler registered for issue code NavigatorUserAgentIssue", source: devtools://devtools/models/issues_manager/issues_manager.js (1)
+[1014/193936.935:INFO:CONSOLE(57483)] "%cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold", source: http://localhost:3000/static/js/bundle.js (57483)
+[1014/193937.047:INFO:CONSOLE(19459)] "No routes matched location "/" ", source: http://localhost:3000/static/js/bundle.js (19459)
+[1014/193937.048:INFO:CONSOLE(19459)] "No routes matched location "/" ", source: http://localhost:3000/static/js/bundle.js (19459)
+[1014/194206.807:INFO:CONSOLE(19459)] "No routes matched location "/" ", source: http://localhost:3000/static/js/bundle.js (19459)
+[1014/194206.807:INFO:CONSOLE(19459)] "No routes matched location "/" ", source: http://localhost:3000/static/js/bundle.js (19459)
+[1014/194943.075:WARNING:chrome_browser_cloud_management_controller.cc(88)] Could not create policy manager as CBCM is not enabled.
+[1014/194943.128:INFO:component_installer.cc(291)] Failed to read manifest for Widevine Content Decryption Module (C:\Users\Gaming\AppData\Local\CEF\User Data\WidevineCdm\4.10.2662.3).: Odmowa dostêpu. (0x5)
+[1014/194958.478:INFO:child_thread_impl.cc(927)] ChildThreadImpl::EnsureConnected()
+[1014/194958.569:INFO:child_thread_impl.cc(927)] ChildThreadImpl::EnsureConnected()
+[1014/200555.464:WARNING:chrome_browser_cloud_management_controller.cc(88)] Could not create policy manager as CBCM is not enabled.
+[1014/200556.239:ERROR:cache_util_win.cc(20)] Unable to move the cache: System nie mo¿e odnaleŸæ okreœlonej œcie¿ki. (0x3)
+[1014/200556.239:ERROR:disk_cache.cc(205)] Unable to create cache
+[1014/200556.415:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[1014/200556.523:INFO:CONSOLE(1)] "[Report Only] Refused to load the script 'https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-d/kFYS+W5WouLs5lK0gPyIesJ7UqSs5M9qO+rXJGdWQ='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+", source: https://www.bing.com/ (1)
+[1014/200557.669:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/200557.866:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/200557.866:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/200557.867:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/200557.867:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/200557.882:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771078 [7,6]
+[1014/200558.060:INFO:CONSOLE(18)] "BSSO Telemetry: {"result":"Error","error":"NoExtension","type":"ChromeSsoTelemetry","data":{},"traces":["BrowserSSO Initialized","Creating ChromeBrowserCore provider","Sending message for method CreateProviderAsync","Received message for method CreateProviderAsync","Error: ChromeBrowserCore error NoExtension: Extension is not installed."]}", source: https://aadcdn.msftauth.net/shared/1.0/content/js/BssoInterrupt_Core_pOO34JFwD1EVcxt413xLZg2.js (18)
+[1014/200558.265:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/200558.265:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/200558.266:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/200558.266:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/200558.288:INFO:CONSOLE(0)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://www.bing.com/orgid/idtoken/conditional (0)
+[1014/200604.795:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1014/200609.126:INFO:CONSOLE(1)] "[Report Only] Refused to run the JavaScript URL because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-d/kFYS+W5WouLs5lK0gPyIesJ7UqSs5M9qO+rXJGdWQ='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution. Note that hashes do not apply to event handlers, style attributes and javascript: navigations unless the 'unsafe-hashes' keyword is present.
+", source: https://www.bing.com/ (1)
+[1014/200609.128:INFO:CONSOLE(1)] "[Report Only] Refused to run the JavaScript URL because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-d/kFYS+W5WouLs5lK0gPyIesJ7UqSs5M9qO+rXJGdWQ='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution. Note that hashes do not apply to event handlers, style attributes and javascript: navigations unless the 'unsafe-hashes' keyword is present.
+", source: https://www.bing.com/ (1)
+[1014/200609.411:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[1014/200626.881:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 34359738372 [8,4] will be ignored
+[1014/200626.993:INFO:CONSOLE(1)] "[Report Only] Refused to load the script 'https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-5TtMUdl5CPgifbiCzrT4x69lrV7+zWypSzqOHyZHzAE='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+", source: https://www.bing.com/?wlexpsignin=1 (1)
+[1014/200627.733:INFO:CONSOLE(72)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://r.bing.com/rp/hkXWsTcGTHs44QxzZyThd4fbbPM.br.js (72)
+[1014/200627.745:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672965 [10,5]
+[1014/200627.817:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672965 [10,5]
+[1014/200627.817:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672965 [10,5]
+[1014/200627.817:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672965 [10,5]
+[1014/200627.818:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672965 [10,5]
+[1014/200627.865:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672968 [10,8]
+[1014/200627.865:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672968 [10,8]
+[1014/200627.866:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672968 [10,8]
+[1014/200627.866:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672968 [10,8]
+[1014/200627.983:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705674 [9,10]
+[1014/200627.983:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705674 [9,10]
+[1014/200627.983:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705674 [9,10]
+[1014/200627.983:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705674 [9,10]
+[1014/200627.988:INFO:CONSOLE(0)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://www.bing.com/orgid/idtoken/nosignin (0)
+[1014/200628.108:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640263 [11,7]
+[1014/200628.237:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640263 [11,7]
+[1014/200628.238:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640263 [11,7]
+[1014/200628.238:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640263 [11,7]
+[1014/200628.238:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640263 [11,7]
+[1014/200628.538:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705676 [9,12]
+[1014/200628.538:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705676 [9,12]
+[1014/200628.539:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705676 [9,12]
+[1014/200628.540:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705676 [9,12]
+[1014/200628.545:INFO:CONSOLE(0)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://www.bing.com/#code=M.C107_BL2.2.c23ccfca-7d21-1656-0900-92ee84edfbe8&client_info=eyJ2ZXIiOiIxLjAiLCJzdWIiOiJBQUFBQUFBQUFBQUFBQUFBQUFBQUFFRDVINTVhSXI2dUV3OUJWZF9OQlZVIiwibmFtZSI6Im9saXdpZXIgRnLEhWNraWV3aWN6IiwicHJlZmVycmVkX3VzZXJuYW1lIjoib2xpd2llcjEyNjEyM0B3cC5wbCIsIm9pZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC1hZWQ0LWQyZWFkN2FkZmZkNSIsInRpZCI6IjkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsImhvbWVfb2lkIjoiMDAwMDAwMDAtMDAwMC0wMDAwLWFlZDQtZDJlYWQ3YWRmZmQ1IiwidWlkIjoiMDAwMDAwMDAtMDAwMC0wMDAwLWFlZDQtZDJlYWQ3YWRmZmQ1IiwidXRpZCI6IjkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCJ9&state=eyJpZCI6IjAxYjRkNTkzLTUxMDMtNDQ1Yi1hOGY4LTQ0NTg0NWU1YjA3NyIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoic2lsZW50In19 (0)
+[1014/200628.550:INFO:CONSOLE(1)] "[Report Only] Refused to load the script 'https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-Dog8zO9zWOkCz6JwZd2GjsKfplhp7JgRZFZX819DQsg='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+", source: https://www.bing.com/#code=M.C107_BL2.2.c23ccfca-7d21-1656-0900-92ee84edfbe8&client_info=eyJ2ZXIiOiIxLjAiLCJzdWIiOiJBQUFBQUFBQUFBQUFBQUFBQUFBQUFFRDVINTVhSXI2dUV3OUJWZF9OQlZVIiwibmFtZSI6Im9saXdpZXIgRnLEhWNraWV3aWN6IiwicHJlZmVycmVkX3VzZXJuYW1lIjoib2xpd2llcjEyNjEyM0B3cC5wbCIsIm9pZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC1hZWQ0LWQyZWFkN2FkZmZkNSIsInRpZCI6IjkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsImhvbWVfb2lkIjoiMDAwMDAwMDAtMDAwMC0wMDAwLWFlZDQtZDJlYWQ3YWRmZmQ1IiwidWlkIjoiMDAwMDAwMDAtMDAwMC0wMDAwLWFlZDQtZDJlYWQ3YWRmZmQ1IiwidXRpZCI6IjkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCJ9&state=eyJpZCI6IjAxYjRkNTkzLTUxMDMtNDQ1Yi1hOGY4LTQ0NTg0NWU1YjA3NyIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoic2lsZW50In19 (1)
+[1014/200633.381:WARNING:chrome_browser_cloud_management_controller.cc(88)] Could not create policy manager as CBCM is not enabled.
+[1014/200633.842:ERROR:cache_util_win.cc(20)] Unable to move the cache: System nie mo¿e odnaleŸæ okreœlonej œcie¿ki. (0x3)
+[1014/200633.843:ERROR:disk_cache.cc(205)] Unable to create cache
+[1014/200633.977:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[1014/200634.176:INFO:CONSOLE(1)] "[Report Only] Refused to load the script 'https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-icL1SMzv62sk44ukD2ljBe0G2pObVmg5MiRgIEgJOFw='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+", source: https://www.bing.com/ (1)
+[1014/200635.453:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/200635.653:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771078 [7,6]
+[1014/200635.655:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/200635.655:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/200635.656:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/200635.656:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/200635.819:INFO:CONSOLE(18)] "BSSO Telemetry: {"result":"Error","error":"NoExtension","type":"ChromeSsoTelemetry","data":{},"traces":["BrowserSSO Initialized","Creating ChromeBrowserCore provider","Sending message for method CreateProviderAsync","Received message for method CreateProviderAsync","Error: ChromeBrowserCore error NoExtension: Extension is not installed."]}", source: https://aadcdn.msftauth.net/shared/1.0/content/js/BssoInterrupt_Core_pOO34JFwD1EVcxt413xLZg2.js (18)
+[1014/200636.020:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/200636.021:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/200636.021:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/200636.021:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/200636.023:INFO:CONSOLE(0)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://www.bing.com/orgid/idtoken/conditional (0)
+[1014/200643.186:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 21474836486 [5,6] will be ignored
+[1014/200643.211:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[1014/201013.407:WARNING:chrome_browser_cloud_management_controller.cc(88)] Could not create policy manager as CBCM is not enabled.
+[1014/201014.259:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[1014/201014.706:INFO:CONSOLE(1)] "[Report Only] Refused to load the script 'https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-TtiP1bAl0Ma1SkraVX7mpNDvvLgW9ddkK25SuDs7Kco='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+", source: https://www.bing.com/ (1)
+[1014/201015.627:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/201015.848:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/201015.848:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/201015.849:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/201015.849:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/201015.885:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771078 [7,6]
+[1014/201016.154:INFO:CONSOLE(18)] "BSSO Telemetry: {"result":"Error","error":"NoExtension","type":"ChromeSsoTelemetry","data":{},"traces":["BrowserSSO Initialized","Creating ChromeBrowserCore provider","Sending message for method CreateProviderAsync","Received message for method CreateProviderAsync","Error: ChromeBrowserCore error NoExtension: Extension is not installed."]}", source: https://aadcdn.msauth.net/shared/1.0/content/js/BssoInterrupt_Core_pOO34JFwD1EVcxt413xLZg2.js (18)
+[1014/201016.286:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/201016.287:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/201016.287:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/201016.287:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/201016.290:INFO:CONSOLE(0)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://www.bing.com/orgid/idtoken/conditional (0)
+[1014/201020.923:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1014/201024.403:INFO:CONSOLE(1)] "[Report Only] Refused to run the JavaScript URL because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-TtiP1bAl0Ma1SkraVX7mpNDvvLgW9ddkK25SuDs7Kco='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution. Note that hashes do not apply to event handlers, style attributes and javascript: navigations unless the 'unsafe-hashes' keyword is present.
+", source: https://www.bing.com/ (1)
+[1014/201024.404:INFO:CONSOLE(1)] "[Report Only] Refused to run the JavaScript URL because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-TtiP1bAl0Ma1SkraVX7mpNDvvLgW9ddkK25SuDs7Kco='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution. Note that hashes do not apply to event handlers, style attributes and javascript: navigations unless the 'unsafe-hashes' keyword is present.
+", source: https://www.bing.com/ (1)
+[1014/201024.669:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[1014/201042.171:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 34359738372 [8,4] will be ignored
+[1014/201042.280:INFO:CONSOLE(1)] "[Report Only] Refused to load the script 'https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-Dx3udcelF2kxdBrlWjX5GMl5IdkYYVh+SO5ZO6noJLo='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+", source: https://www.bing.com/?wlexpsignin=1 (1)
+[1014/201042.754:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672965 [10,5]
+[1014/201042.818:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672965 [10,5]
+[1014/201042.818:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672965 [10,5]
+[1014/201042.819:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672965 [10,5]
+[1014/201042.819:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672965 [10,5]
+[1014/201042.939:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705672 [9,8]
+[1014/201042.939:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705672 [9,8]
+[1014/201042.939:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705672 [9,8]
+[1014/201042.939:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705672 [9,8]
+[1014/201042.946:INFO:CONSOLE(0)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://www.bing.com/orgid/idtoken/nosignin (0)
+[1014/201044.405:INFO:CONSOLE(72)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://r.bing.com/rp/hkXWsTcGTHs44QxzZyThd4fbbPM.br.js (72)
+[1014/201044.432:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640262 [11,6]
+[1014/201044.548:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640262 [11,6]
+[1014/201044.548:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640262 [11,6]
+[1014/201044.548:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640262 [11,6]
+[1014/201044.549:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640262 [11,6]
+[1014/201044.715:WARNING:browser_info.cc(309)] Returning a speculative frame for 51539607559 [12,7]
+[1014/201044.866:WARNING:browser_info.cc(309)] Returning a speculative frame for 51539607559 [12,7]
+[1014/201044.866:WARNING:browser_info.cc(309)] Returning a speculative frame for 51539607559 [12,7]
+[1014/201044.866:WARNING:browser_info.cc(309)] Returning a speculative frame for 51539607559 [12,7]
+[1014/201044.866:WARNING:browser_info.cc(309)] Returning a speculative frame for 51539607559 [12,7]
+[1014/201045.326:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705676 [9,12]
+[1014/201045.326:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705676 [9,12]
+[1014/201045.327:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705676 [9,12]
+[1014/201045.327:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705676 [9,12]
+[1014/201045.331:INFO:CONSOLE(0)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://www.bing.com/#code=M.C107_BL2.2.f9b84b81-2a23-0fab-7d76-962c53a0aed8&client_info=eyJ2ZXIiOiIxLjAiLCJzdWIiOiJBQUFBQUFBQUFBQUFBQUFBQUFBQUFFRDVINTVhSXI2dUV3OUJWZF9OQlZVIiwibmFtZSI6Im9saXdpZXIgRnLEhWNraWV3aWN6IiwicHJlZmVycmVkX3VzZXJuYW1lIjoib2xpd2llcjEyNjEyM0B3cC5wbCIsIm9pZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC1hZWQ0LWQyZWFkN2FkZmZkNSIsInRpZCI6IjkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsImhvbWVfb2lkIjoiMDAwMDAwMDAtMDAwMC0wMDAwLWFlZDQtZDJlYWQ3YWRmZmQ1IiwidWlkIjoiMDAwMDAwMDAtMDAwMC0wMDAwLWFlZDQtZDJlYWQ3YWRmZmQ1IiwidXRpZCI6IjkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCJ9&state=eyJpZCI6ImYyNDgzMTUyLTIzYmUtNDFhOS04ZjlmLTM1YWQ3ODdmOGMyYiIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoic2lsZW50In19 (0)
+[1014/201045.336:INFO:CONSOLE(1)] "[Report Only] Refused to load the script 'https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-A9M0J8WIww0GJcz23l5HTZF9oOosfJajZ5jSIirLc9c='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+", source: https://www.bing.com/#code=M.C107_BL2.2.f9b84b81-2a23-0fab-7d76-962c53a0aed8&client_info=eyJ2ZXIiOiIxLjAiLCJzdWIiOiJBQUFBQUFBQUFBQUFBQUFBQUFBQUFFRDVINTVhSXI2dUV3OUJWZF9OQlZVIiwibmFtZSI6Im9saXdpZXIgRnLEhWNraWV3aWN6IiwicHJlZmVycmVkX3VzZXJuYW1lIjoib2xpd2llcjEyNjEyM0B3cC5wbCIsIm9pZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC1hZWQ0LWQyZWFkN2FkZmZkNSIsInRpZCI6IjkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsImhvbWVfb2lkIjoiMDAwMDAwMDAtMDAwMC0wMDAwLWFlZDQtZDJlYWQ3YWRmZmQ1IiwidWlkIjoiMDAwMDAwMDAtMDAwMC0wMDAwLWFlZDQtZDJlYWQ3YWRmZmQ1IiwidXRpZCI6IjkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCJ9&state=eyJpZCI6ImYyNDgzMTUyLTIzYmUtNDFhOS04ZjlmLTM1YWQ3ODdmOGMyYiIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoic2lsZW50In19 (1)
+[1014/201045.413:INFO:CONSOLE(1)] "[Report Only] Refused to run the JavaScript URL because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-Dx3udcelF2kxdBrlWjX5GMl5IdkYYVh+SO5ZO6noJLo='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution. Note that hashes do not apply to event handlers, style attributes and javascript: navigations unless the 'unsafe-hashes' keyword is present.
+", source: https://www.bing.com/?wlexpsignin=1 (1)
+[1014/201045.413:INFO:CONSOLE(1)] "[Report Only] Refused to run the JavaScript URL because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-Dx3udcelF2kxdBrlWjX5GMl5IdkYYVh+SO5ZO6noJLo='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution. Note that hashes do not apply to event handlers, style attributes and javascript: navigations unless the 'unsafe-hashes' keyword is present.
+", source: https://www.bing.com/?wlexpsignin=1 (1)
+[1014/201047.097:INFO:CONSOLE(1)] "[Report Only] Refused to run the JavaScript URL because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-Dx3udcelF2kxdBrlWjX5GMl5IdkYYVh+SO5ZO6noJLo='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution. Note that hashes do not apply to event handlers, style attributes and javascript: navigations unless the 'unsafe-hashes' keyword is present.
+", source: https://www.bing.com/?wlexpsignin=1 (1)
+[1014/201047.120:INFO:CONSOLE(1)] "[Report Only] Refused to run the JavaScript URL because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-Dx3udcelF2kxdBrlWjX5GMl5IdkYYVh+SO5ZO6noJLo='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution. Note that hashes do not apply to event handlers, style attributes and javascript: navigations unless the 'unsafe-hashes' keyword is present.
+", source: https://www.bing.com/?wlexpsignin=1 (1)
+[1014/201048.568:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 38654705672 [9,8] will be ignored
+[1014/201048.824:WARNING:sqlite_persistent_store_backend_base.cc(194)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:242 to client_task_runner_.
+[1014/201048.824:WARNING:sqlite_persistent_store_backend_base.cc(194)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:242 to client_task_runner_.
+[1014/201052.668:WARNING:chrome_browser_cloud_management_controller.cc(88)] Could not create policy manager as CBCM is not enabled.
+[1014/201053.419:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[1014/201053.698:INFO:CONSOLE(1)] "[Report Only] Refused to load the script 'https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-e1yqX5Dklb+sol3VhAUHcl5ICWZvrlMGXOLhpcvx0/E='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+", source: https://www.bing.com/ (1)
+[1014/201053.994:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/201054.190:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/201054.190:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/201054.190:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/201054.190:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/201054.243:INFO:CONSOLE(72)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://r.bing.com/rp/hkXWsTcGTHs44QxzZyThd4fbbPM.br.js (72)
+[1014/201054.303:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803784 [6,8]
+[1014/201054.304:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803784 [6,8]
+[1014/201054.304:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803784 [6,8]
+[1014/201054.304:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803784 [6,8]
+[1014/201054.341:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/201054.341:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/201054.341:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/201054.342:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/201054.346:INFO:CONSOLE(0)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://www.bing.com/orgid/idtoken/nosignin (0)
+[1014/201054.363:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771079 [7,7]
+[1014/201054.364:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771079 [7,7]
+[1014/201054.364:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771079 [7,7]
+[1014/201054.365:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771079 [7,7]
+[1014/201054.367:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771079 [7,7]
+[1014/201054.908:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836491 [5,11]
+[1014/201054.908:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836491 [5,11]
+[1014/201054.908:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836491 [5,11]
+[1014/201054.908:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836491 [5,11]
+[1014/201054.912:INFO:CONSOLE(0)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://www.bing.com/#code=M.C107_BL2.2.4db91ecd-da52-dd19-d342-2bf35425c2fd&client_info=eyJ2ZXIiOiIxLjAiLCJzdWIiOiJBQUFBQUFBQUFBQUFBQUFBQUFBQUFFRDVINTVhSXI2dUV3OUJWZF9OQlZVIiwibmFtZSI6Im9saXdpZXIgRnLEhWNraWV3aWN6IiwicHJlZmVycmVkX3VzZXJuYW1lIjoib2xpd2llcjEyNjEyM0B3cC5wbCIsIm9pZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC1hZWQ0LWQyZWFkN2FkZmZkNSIsInRpZCI6IjkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsImhvbWVfb2lkIjoiMDAwMDAwMDAtMDAwMC0wMDAwLWFlZDQtZDJlYWQ3YWRmZmQ1IiwidWlkIjoiMDAwMDAwMDAtMDAwMC0wMDAwLWFlZDQtZDJlYWQ3YWRmZmQ1IiwidXRpZCI6IjkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCJ9&state=eyJpZCI6IjM1OTdiMTA0LTUyZDctNGM2YS05N2ZkLWIxOGIyY2QzOGYxOCIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoic2lsZW50In19 (0)
+[1014/201054.916:INFO:CONSOLE(1)] "[Report Only] Refused to load the script 'https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-CVO7ayudJR14n5nkJhVc+c0x6W/ABQp+JVJrK88sSMg='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+", source: https://www.bing.com/#code=M.C107_BL2.2.4db91ecd-da52-dd19-d342-2bf35425c2fd&client_info=eyJ2ZXIiOiIxLjAiLCJzdWIiOiJBQUFBQUFBQUFBQUFBQUFBQUFBQUFFRDVINTVhSXI2dUV3OUJWZF9OQlZVIiwibmFtZSI6Im9saXdpZXIgRnLEhWNraWV3aWN6IiwicHJlZmVycmVkX3VzZXJuYW1lIjoib2xpd2llcjEyNjEyM0B3cC5wbCIsIm9pZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC1hZWQ0LWQyZWFkN2FkZmZkNSIsInRpZCI6IjkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsImhvbWVfb2lkIjoiMDAwMDAwMDAtMDAwMC0wMDAwLWFlZDQtZDJlYWQ3YWRmZmQ1IiwidWlkIjoiMDAwMDAwMDAtMDAwMC0wMDAwLWFlZDQtZDJlYWQ3YWRmZmQ1IiwidXRpZCI6IjkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCJ9&state=eyJpZCI6IjM1OTdiMTA0LTUyZDctNGM2YS05N2ZkLWIxOGIyY2QzOGYxOCIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoic2lsZW50In19 (1)
+[1014/201057.602:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 21474836488 [5,8] will be ignored
+[1014/201057.768:WARNING:sqlite_persistent_store_backend_base.cc(194)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:242 to client_task_runner_.
+[1014/201057.768:WARNING:sqlite_persistent_store_backend_base.cc(194)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:242 to client_task_runner_.
+[1014/201323.846:WARNING:chrome_browser_cloud_management_controller.cc(88)] Could not create policy manager as CBCM is not enabled.
+[1014/201324.850:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[1014/201325.235:INFO:CONSOLE(1)] "[Report Only] Refused to load the script 'https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-0XIp9g6Bjw5jJfmxC1YNLsecIyS/U8HzPyY2TcoW+iE='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+", source: https://www.bing.com/ (1)
+[1014/201326.091:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/201326.285:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/201326.286:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/201326.287:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/201326.287:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/201326.333:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771078 [7,6]
+[1014/201326.557:INFO:CONSOLE(18)] "BSSO Telemetry: {"result":"Error","error":"NoExtension","type":"ChromeSsoTelemetry","data":{},"traces":["BrowserSSO Initialized","Creating ChromeBrowserCore provider","Sending message for method CreateProviderAsync","Received message for method CreateProviderAsync","Error: ChromeBrowserCore error NoExtension: Extension is not installed."]}", source: https://aadcdn.msauth.net/shared/1.0/content/js/BssoInterrupt_Core_pOO34JFwD1EVcxt413xLZg2.js (18)
+[1014/201326.753:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/201326.754:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/201326.754:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/201326.754:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/201326.756:INFO:CONSOLE(0)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://www.bing.com/orgid/idtoken/conditional (0)
+[1014/201327.493:INFO:CONSOLE(1)] "[Report Only] Refused to run the JavaScript URL because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-0XIp9g6Bjw5jJfmxC1YNLsecIyS/U8HzPyY2TcoW+iE='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution. Note that hashes do not apply to event handlers, style attributes and javascript: navigations unless the 'unsafe-hashes' keyword is present.
+", source: https://www.bing.com/ (1)
+[1014/201327.493:INFO:CONSOLE(1)] "[Report Only] Refused to run the JavaScript URL because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-0XIp9g6Bjw5jJfmxC1YNLsecIyS/U8HzPyY2TcoW+iE='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution. Note that hashes do not apply to event handlers, style attributes and javascript: navigations unless the 'unsafe-hashes' keyword is present.
+", source: https://www.bing.com/ (1)
+[1014/201327.801:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[1014/201450.224:WARNING:chrome_browser_cloud_management_controller.cc(88)] Could not create policy manager as CBCM is not enabled.
+[1014/201451.699:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[1014/201451.842:INFO:CONSOLE(1)] "[Report Only] Refused to load the script 'https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-c6OjUlJf32RFNLd80nJ+A0+4xlS2CSKuMCMC15FJueU='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+", source: https://www.bing.com/ (1)
+[1014/201452.699:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/201452.957:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771078 [7,6]
+[1014/201453.011:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/201453.011:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/201453.011:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/201453.011:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/201453.209:INFO:CONSOLE(18)] "BSSO Telemetry: {"result":"Error","error":"NoExtension","type":"ChromeSsoTelemetry","data":{},"traces":["BrowserSSO Initialized","Creating ChromeBrowserCore provider","Sending message for method CreateProviderAsync","Received message for method CreateProviderAsync","Error: ChromeBrowserCore error NoExtension: Extension is not installed."]}", source: https://aadcdn.msftauth.net/shared/1.0/content/js/BssoInterrupt_Core_pOO34JFwD1EVcxt413xLZg2.js (18)
+[1014/201453.387:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/201453.387:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/201453.389:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/201453.389:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/201453.389:INFO:CONSOLE(0)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://www.bing.com/orgid/idtoken/conditional (0)
+[1014/201457.038:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1014/201459.344:INFO:CONSOLE(1)] "[Report Only] Refused to run the JavaScript URL because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-c6OjUlJf32RFNLd80nJ+A0+4xlS2CSKuMCMC15FJueU='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution. Note that hashes do not apply to event handlers, style attributes and javascript: navigations unless the 'unsafe-hashes' keyword is present.
+", source: https://www.bing.com/ (1)
+[1014/201459.344:INFO:CONSOLE(1)] "[Report Only] Refused to run the JavaScript URL because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-c6OjUlJf32RFNLd80nJ+A0+4xlS2CSKuMCMC15FJueU='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution. Note that hashes do not apply to event handlers, style attributes and javascript: navigations unless the 'unsafe-hashes' keyword is present.
+", source: https://www.bing.com/ (1)
+[1014/201459.631:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[1014/201543.792:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 34359738372 [8,4] will be ignored
+[1014/201543.909:INFO:CONSOLE(1)] "[Report Only] Refused to load the script 'https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-PG9w+9SDW72GdQLH58lOOlVEGwDX3GnABqd475OIHmI='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+", source: https://www.bing.com/?wlexpsignin=1 (1)
+[1014/201544.375:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672965 [10,5]
+[1014/201544.420:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672965 [10,5]
+[1014/201544.421:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672965 [10,5]
+[1014/201544.421:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672965 [10,5]
+[1014/201544.421:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672965 [10,5]
+[1014/201544.590:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705672 [9,8]
+[1014/201544.590:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705672 [9,8]
+[1014/201544.590:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705672 [9,8]
+[1014/201544.590:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705672 [9,8]
+[1014/201544.593:INFO:CONSOLE(0)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://www.bing.com/orgid/idtoken/nosignin (0)
+[1014/201546.519:INFO:CONSOLE(72)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://r.bing.com/rp/hkXWsTcGTHs44QxzZyThd4fbbPM.br.js (72)
+[1014/201546.527:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640262 [11,6]
+[1014/201546.607:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640262 [11,6]
+[1014/201546.608:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640262 [11,6]
+[1014/201546.608:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640262 [11,6]
+[1014/201546.608:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640262 [11,6]
+[1014/201546.709:WARNING:browser_info.cc(309)] Returning a speculative frame for 51539607559 [12,7]
+[1014/201546.849:WARNING:browser_info.cc(309)] Returning a speculative frame for 51539607559 [12,7]
+[1014/201546.849:WARNING:browser_info.cc(309)] Returning a speculative frame for 51539607559 [12,7]
+[1014/201546.849:WARNING:browser_info.cc(309)] Returning a speculative frame for 51539607559 [12,7]
+[1014/201546.850:WARNING:browser_info.cc(309)] Returning a speculative frame for 51539607559 [12,7]
+[1014/201547.163:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705676 [9,12]
+[1014/201547.164:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705676 [9,12]
+[1014/201547.164:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705676 [9,12]
+[1014/201547.164:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705676 [9,12]
+[1014/201547.166:INFO:CONSOLE(0)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://www.bing.com/#code=M.C107_BL2.2.fa31bc4c-6da1-0012-cdce-6ce97664ea66&client_info=eyJ2ZXIiOiIxLjAiLCJzdWIiOiJBQUFBQUFBQUFBQUFBQUFBQUFBQUFFRDVINTVhSXI2dUV3OUJWZF9OQlZVIiwibmFtZSI6Im9saXdpZXIgRnLEhWNraWV3aWN6IiwicHJlZmVycmVkX3VzZXJuYW1lIjoib2xpd2llcjEyNjEyM0B3cC5wbCIsIm9pZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC1hZWQ0LWQyZWFkN2FkZmZkNSIsInRpZCI6IjkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsImhvbWVfb2lkIjoiMDAwMDAwMDAtMDAwMC0wMDAwLWFlZDQtZDJlYWQ3YWRmZmQ1IiwidWlkIjoiMDAwMDAwMDAtMDAwMC0wMDAwLWFlZDQtZDJlYWQ3YWRmZmQ1IiwidXRpZCI6IjkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCJ9&state=eyJpZCI6IjQ0YjgzMTFjLTk1N2UtNDI1My04OTM3LWQ3MzhiOTU4Njc1MCIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoic2lsZW50In19 (0)
+[1014/201547.171:INFO:CONSOLE(1)] "[Report Only] Refused to load the script 'https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-1vH3j9sUBzhpAi+3398oOhPG1VB0A1LJYkQquoZfegU='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+", source: https://www.bing.com/#code=M.C107_BL2.2.fa31bc4c-6da1-0012-cdce-6ce97664ea66&client_info=eyJ2ZXIiOiIxLjAiLCJzdWIiOiJBQUFBQUFBQUFBQUFBQUFBQUFBQUFFRDVINTVhSXI2dUV3OUJWZF9OQlZVIiwibmFtZSI6Im9saXdpZXIgRnLEhWNraWV3aWN6IiwicHJlZmVycmVkX3VzZXJuYW1lIjoib2xpd2llcjEyNjEyM0B3cC5wbCIsIm9pZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC1hZWQ0LWQyZWFkN2FkZmZkNSIsInRpZCI6IjkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsImhvbWVfb2lkIjoiMDAwMDAwMDAtMDAwMC0wMDAwLWFlZDQtZDJlYWQ3YWRmZmQ1IiwidWlkIjoiMDAwMDAwMDAtMDAwMC0wMDAwLWFlZDQtZDJlYWQ3YWRmZmQ1IiwidXRpZCI6IjkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCJ9&state=eyJpZCI6IjQ0YjgzMTFjLTk1N2UtNDI1My04OTM3LWQ3MzhiOTU4Njc1MCIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoic2lsZW50In19 (1)
+[1014/201550.354:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 38654705672 [9,8] will be ignored
+[1014/201550.603:WARNING:sqlite_persistent_store_backend_base.cc(194)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:242 to client_task_runner_.
+[1014/201550.603:WARNING:sqlite_persistent_store_backend_base.cc(194)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:242 to client_task_runner_.
+[1014/201553.126:WARNING:chrome_browser_cloud_management_controller.cc(88)] Could not create policy manager as CBCM is not enabled.
+[1014/201554.145:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[1014/201554.441:INFO:CONSOLE(1)] "[Report Only] Refused to load the script 'https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-ZqwyVm0mCpWYsyvaokgPNcRxFYTp93UUA4TavQ+8zA4='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+", source: https://www.bing.com/ (1)
+[1014/201555.023:INFO:CONSOLE(72)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://r.bing.com/rp/hkXWsTcGTHs44QxzZyThd4fbbPM.br.js (72)
+[1014/201555.044:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/201555.235:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803784 [6,8]
+[1014/201555.235:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803784 [6,8]
+[1014/201555.235:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803784 [6,8]
+[1014/201555.235:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803784 [6,8]
+[1014/201555.260:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/201555.260:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/201555.260:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/201555.260:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/201555.338:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771079 [7,7]
+[1014/201555.339:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771079 [7,7]
+[1014/201555.339:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771079 [7,7]
+[1014/201555.339:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771079 [7,7]
+[1014/201555.347:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771079 [7,7]
+[1014/201555.366:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836489 [5,9]
+[1014/201555.366:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836489 [5,9]
+[1014/201555.367:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836489 [5,9]
+[1014/201555.367:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836489 [5,9]
+[1014/201555.369:INFO:CONSOLE(0)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://www.bing.com/orgid/idtoken/nosignin (0)
+[1014/201555.915:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836491 [5,11]
+[1014/201555.915:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836491 [5,11]
+[1014/201555.916:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836491 [5,11]
+[1014/201555.916:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836491 [5,11]
+[1014/201555.918:INFO:CONSOLE(0)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://www.bing.com/#code=M.C107_BL2.2.ac29c575-4ebd-b6d1-a21f-cba32b4c4e5b&client_info=eyJ2ZXIiOiIxLjAiLCJzdWIiOiJBQUFBQUFBQUFBQUFBQUFBQUFBQUFFRDVINTVhSXI2dUV3OUJWZF9OQlZVIiwibmFtZSI6Im9saXdpZXIgRnLEhWNraWV3aWN6IiwicHJlZmVycmVkX3VzZXJuYW1lIjoib2xpd2llcjEyNjEyM0B3cC5wbCIsIm9pZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC1hZWQ0LWQyZWFkN2FkZmZkNSIsInRpZCI6IjkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsImhvbWVfb2lkIjoiMDAwMDAwMDAtMDAwMC0wMDAwLWFlZDQtZDJlYWQ3YWRmZmQ1IiwidWlkIjoiMDAwMDAwMDAtMDAwMC0wMDAwLWFlZDQtZDJlYWQ3YWRmZmQ1IiwidXRpZCI6IjkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCJ9&state=eyJpZCI6IjExNWVjZmU0LWRkNjEtNGM0ZC1hOWVkLTdkMTc3YWJiM2NiYyIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoic2lsZW50In19 (0)
+[1014/201555.922:INFO:CONSOLE(1)] "[Report Only] Refused to load the script 'https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-N7LtYZY7GYOVpeTFSlsqEn1AIplUXDaAjVmoBMK4jpI='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+", source: https://www.bing.com/#code=M.C107_BL2.2.ac29c575-4ebd-b6d1-a21f-cba32b4c4e5b&client_info=eyJ2ZXIiOiIxLjAiLCJzdWIiOiJBQUFBQUFBQUFBQUFBQUFBQUFBQUFFRDVINTVhSXI2dUV3OUJWZF9OQlZVIiwibmFtZSI6Im9saXdpZXIgRnLEhWNraWV3aWN6IiwicHJlZmVycmVkX3VzZXJuYW1lIjoib2xpd2llcjEyNjEyM0B3cC5wbCIsIm9pZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC1hZWQ0LWQyZWFkN2FkZmZkNSIsInRpZCI6IjkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsImhvbWVfb2lkIjoiMDAwMDAwMDAtMDAwMC0wMDAwLWFlZDQtZDJlYWQ3YWRmZmQ1IiwidWlkIjoiMDAwMDAwMDAtMDAwMC0wMDAwLWFlZDQtZDJlYWQ3YWRmZmQ1IiwidXRpZCI6IjkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCJ9&state=eyJpZCI6IjExNWVjZmU0LWRkNjEtNGM0ZC1hOWVkLTdkMTc3YWJiM2NiYyIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoic2lsZW50In19 (1)
+[1014/201557.871:WARNING:sqlite_persistent_store_backend_base.cc(194)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:242 to client_task_runner_.
+[1014/201557.872:WARNING:sqlite_persistent_store_backend_base.cc(194)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:242 to client_task_runner_.
+[1014/201605.455:WARNING:chrome_browser_cloud_management_controller.cc(88)] Could not create policy manager as CBCM is not enabled.
+[1014/201606.036:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[1014/201606.886:INFO:CONSOLE(1)] "[Report Only] Refused to load the script 'https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-jvFZ7IUV0I27m1uFl3bkg48uL0sK1c4M+OaX+vZMa8o='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+", source: https://www.bing.com/ (1)
+[1014/201607.769:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/201607.964:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/201607.965:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/201607.967:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/201607.968:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/201608.018:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771078 [7,6]
+[1014/201608.179:INFO:CONSOLE(18)] "BSSO Telemetry: {"result":"Error","error":"NoExtension","type":"ChromeSsoTelemetry","data":{},"traces":["BrowserSSO Initialized","Creating ChromeBrowserCore provider","Sending message for method CreateProviderAsync","Received message for method CreateProviderAsync","Error: ChromeBrowserCore error NoExtension: Extension is not installed."]}", source: https://aadcdn.msftauth.net/shared/1.0/content/js/BssoInterrupt_Core_pOO34JFwD1EVcxt413xLZg2.js (18)
+[1014/201608.334:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/201608.334:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/201608.334:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/201608.334:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/201608.338:INFO:CONSOLE(0)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://www.bing.com/orgid/idtoken/conditional (0)
+[1014/201608.686:WARNING:sqlite_persistent_store_backend_base.cc(194)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:242 to client_task_runner_.
+[1014/201608.686:WARNING:sqlite_persistent_store_backend_base.cc(194)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:242 to client_task_runner_.
+[1014/202544.960:WARNING:chrome_browser_cloud_management_controller.cc(88)] Could not create policy manager as CBCM is not enabled.
+[1014/202545.768:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[1014/202546.320:INFO:CONSOLE(1)] "[Report Only] Refused to load the script 'https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-iY/TNFR1w0Tk6ENVQmNvGVMB9tAMSfsRDr7hJxXFkqk='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+", source: https://www.bing.com/ (1)
+[1014/202547.202:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/202547.398:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771078 [7,6]
+[1014/202547.425:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/202547.425:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/202547.425:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/202547.426:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/202547.591:INFO:CONSOLE(18)] "BSSO Telemetry: {"result":"Error","error":"NoExtension","type":"ChromeSsoTelemetry","data":{},"traces":["BrowserSSO Initialized","Creating ChromeBrowserCore provider","Sending message for method CreateProviderAsync","Received message for method CreateProviderAsync","Error: ChromeBrowserCore error NoExtension: Extension is not installed."]}", source: https://aadcdn.msftauth.net/shared/1.0/content/js/BssoInterrupt_Core_pOO34JFwD1EVcxt413xLZg2.js (18)
+[1014/202547.781:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/202547.782:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/202547.782:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/202547.782:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/202547.785:INFO:CONSOLE(0)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://www.bing.com/orgid/idtoken/conditional (0)
+[1014/202551.240:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1014/202610.999:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1014/202621.620:INFO:CONSOLE(1)] "[Report Only] Refused to run the JavaScript URL because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-iY/TNFR1w0Tk6ENVQmNvGVMB9tAMSfsRDr7hJxXFkqk='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution. Note that hashes do not apply to event handlers, style attributes and javascript: navigations unless the 'unsafe-hashes' keyword is present.
+", source: https://www.bing.com/ (1)
+[1014/202621.623:INFO:CONSOLE(1)] "[Report Only] Refused to run the JavaScript URL because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-iY/TNFR1w0Tk6ENVQmNvGVMB9tAMSfsRDr7hJxXFkqk='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution. Note that hashes do not apply to event handlers, style attributes and javascript: navigations unless the 'unsafe-hashes' keyword is present.
+", source: https://www.bing.com/ (1)
+[1014/202621.704:INFO:CONSOLE(2)] "[Report Only] Refused to run the JavaScript URL because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-iY/TNFR1w0Tk6ENVQmNvGVMB9tAMSfsRDr7hJxXFkqk='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution. Note that hashes do not apply to event handlers, style attributes and javascript: navigations unless the 'unsafe-hashes' keyword is present.
+", source:  (2)
+[1014/202621.707:INFO:CONSOLE(1)] "[Report Only] Refused to run the JavaScript URL because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-iY/TNFR1w0Tk6ENVQmNvGVMB9tAMSfsRDr7hJxXFkqk='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution. Note that hashes do not apply to event handlers, style attributes and javascript: navigations unless the 'unsafe-hashes' keyword is present.
+", source: https://www.bing.com/ (1)
+[1014/202636.441:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1014/202911.931:WARNING:chrome_browser_cloud_management_controller.cc(88)] Could not create policy manager as CBCM is not enabled.
+[1014/202912.437:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[1014/202912.901:INFO:CONSOLE(1)] "[Report Only] Refused to load the script 'https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-i8FQ8SptJOBhxiABuU8GgCldWIxkhRRF/1oKat8zgnI='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+", source: https://www.bing.com/ (1)
+[1014/202913.804:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/202914.074:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771078 [7,6]
+[1014/202915.018:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/202915.018:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/202915.019:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/202915.019:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/202915.263:INFO:CONSOLE(18)] "BSSO Telemetry: {"result":"Error","error":"NoExtension","type":"ChromeSsoTelemetry","data":{},"traces":["BrowserSSO Initialized","Creating ChromeBrowserCore provider","Sending message for method CreateProviderAsync","Received message for method CreateProviderAsync","Error: ChromeBrowserCore error NoExtension: Extension is not installed."]}", source: https://aadcdn.msauth.net/shared/1.0/content/js/BssoInterrupt_Core_pOO34JFwD1EVcxt413xLZg2.js (18)
+[1014/202915.411:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/202915.411:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/202915.411:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/202915.411:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[1014/202915.413:INFO:CONSOLE(0)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://www.bing.com/orgid/idtoken/conditional (0)
+[1014/202919.095:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1014/202920.197:INFO:CONSOLE(1)] "[Report Only] Refused to run the JavaScript URL because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-i8FQ8SptJOBhxiABuU8GgCldWIxkhRRF/1oKat8zgnI='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution. Note that hashes do not apply to event handlers, style attributes and javascript: navigations unless the 'unsafe-hashes' keyword is present.
+", source: https://www.bing.com/ (1)
+[1014/202920.197:INFO:CONSOLE(1)] "[Report Only] Refused to run the JavaScript URL because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-i8FQ8SptJOBhxiABuU8GgCldWIxkhRRF/1oKat8zgnI='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution. Note that hashes do not apply to event handlers, style attributes and javascript: navigations unless the 'unsafe-hashes' keyword is present.
+", source: https://www.bing.com/ (1)
+[1014/202920.951:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 21474836481 [5,1] will be ignored
+[1014/202946.077:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 34359738372 [8,4] will be ignored
+[1014/202946.191:INFO:CONSOLE(1)] "[Report Only] Refused to load the script 'https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-KJhFAWqYx4T5pWgPfgo9fBeCGfu0/sh0wzD/AZUwcmw='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+", source: https://www.bing.com/?wlexpsignin=1 (1)
+[1014/202946.687:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672965 [10,5]
+[1014/202946.723:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672965 [10,5]
+[1014/202946.724:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672965 [10,5]
+[1014/202946.724:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672965 [10,5]
+[1014/202946.724:WARNING:browser_info.cc(309)] Returning a speculative frame for 42949672965 [10,5]
+[1014/202946.887:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705672 [9,8]
+[1014/202946.888:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705672 [9,8]
+[1014/202946.888:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705672 [9,8]
+[1014/202946.888:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705672 [9,8]
+[1014/202946.889:INFO:CONSOLE(0)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://www.bing.com/orgid/idtoken/nosignin (0)
+[1014/202948.250:INFO:CONSOLE(1)] "[Report Only] Refused to run the JavaScript URL because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-KJhFAWqYx4T5pWgPfgo9fBeCGfu0/sh0wzD/AZUwcmw='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution. Note that hashes do not apply to event handlers, style attributes and javascript: navigations unless the 'unsafe-hashes' keyword is present.
+", source: https://www.bing.com/?wlexpsignin=1 (1)
+[1014/202948.254:INFO:CONSOLE(1)] "[Report Only] Refused to run the JavaScript URL because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-KJhFAWqYx4T5pWgPfgo9fBeCGfu0/sh0wzD/AZUwcmw='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution. Note that hashes do not apply to event handlers, style attributes and javascript: navigations unless the 'unsafe-hashes' keyword is present.
+", source: https://www.bing.com/?wlexpsignin=1 (1)
+[1014/202948.320:INFO:CONSOLE(2)] "[Report Only] Refused to run the JavaScript URL because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-KJhFAWqYx4T5pWgPfgo9fBeCGfu0/sh0wzD/AZUwcmw='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution. Note that hashes do not apply to event handlers, style attributes and javascript: navigations unless the 'unsafe-hashes' keyword is present.
+", source:  (2)
+[1014/202948.320:INFO:CONSOLE(1)] "[Report Only] Refused to run the JavaScript URL because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-KJhFAWqYx4T5pWgPfgo9fBeCGfu0/sh0wzD/AZUwcmw='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution. Note that hashes do not apply to event handlers, style attributes and javascript: navigations unless the 'unsafe-hashes' keyword is present.
+", source: https://www.bing.com/?wlexpsignin=1 (1)
+[1014/202948.512:INFO:CONSOLE(72)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://r.bing.com/rp/hkXWsTcGTHs44QxzZyThd4fbbPM.br.js (72)
+[1014/202948.522:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640262 [11,6]
+[1014/202948.590:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640262 [11,6]
+[1014/202948.590:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640262 [11,6]
+[1014/202948.590:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640262 [11,6]
+[1014/202948.590:WARNING:browser_info.cc(309)] Returning a speculative frame for 47244640262 [11,6]
+[1014/202948.782:WARNING:browser_info.cc(309)] Returning a speculative frame for 51539607559 [12,7]
+[1014/202948.935:WARNING:browser_info.cc(309)] Returning a speculative frame for 51539607559 [12,7]
+[1014/202948.935:WARNING:browser_info.cc(309)] Returning a speculative frame for 51539607559 [12,7]
+[1014/202948.935:WARNING:browser_info.cc(309)] Returning a speculative frame for 51539607559 [12,7]
+[1014/202948.935:WARNING:browser_info.cc(309)] Returning a speculative frame for 51539607559 [12,7]
+[1014/202949.216:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705676 [9,12]
+[1014/202949.216:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705676 [9,12]
+[1014/202949.216:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705676 [9,12]
+[1014/202949.216:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705676 [9,12]
+[1014/202949.218:INFO:CONSOLE(0)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://www.bing.com/#code=M.C107_BL2.2.4d5a0b91-87d7-faf4-1113-68cc7e84eb1e&client_info=eyJ2ZXIiOiIxLjAiLCJzdWIiOiJBQUFBQUFBQUFBQUFBQUFBQUFBQUFFRDVINTVhSXI2dUV3OUJWZF9OQlZVIiwibmFtZSI6Im9saXdpZXIgRnLEhWNraWV3aWN6IiwicHJlZmVycmVkX3VzZXJuYW1lIjoib2xpd2llcjEyNjEyM0B3cC5wbCIsIm9pZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC1hZWQ0LWQyZWFkN2FkZmZkNSIsInRpZCI6IjkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsImhvbWVfb2lkIjoiMDAwMDAwMDAtMDAwMC0wMDAwLWFlZDQtZDJlYWQ3YWRmZmQ1IiwidWlkIjoiMDAwMDAwMDAtMDAwMC0wMDAwLWFlZDQtZDJlYWQ3YWRmZmQ1IiwidXRpZCI6IjkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCJ9&state=eyJpZCI6ImY0Nzc1NmU4LTc4ZjctNGRjMy1hOWVjLTliZWM3M2M0NDY5NiIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoic2lsZW50In19 (0)
+[1014/202949.222:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 38654705676 [9,12] will be ignored
+[1014/202949.222:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 38654705676 [9,12] will be ignored
+[1014/202949.896:INFO:CONSOLE(9073)] "Sat Oct 14 2023 20:29:49 GMT+0200 (Central European Summer Time): 1697308189893 {"id":22012,"severity":0,"pb":{"build":"20231012.214","appType":"bingHomepage","pcsVersion":"20231011.11_master","pcsEnv":"prod","buildAlias":"latest","shouldDelayUntilLoadTime":false,"shouldSupressWarnings":false,"customMessage":"ConfigRef: binghomepage/appconfig/default. CrsFetchNetworkError: true. Error: TypeError: Failed to fetch. CrsUrl: https://www.msn.com/resolver/api/resolve/v3/config/?expType=AppConfig&expInstance=default&apptype=bingHomepage&v=20231012.214&targetScope={%22audienceMode%22:%22adult%22,%22browser%22:{%22browserType%22:%22chrome%22,%22version%22:%22116%22,%22ismobile%22:%22false%22},%22deviceFormFactor%22:%22desktop%22,%22domain%22:%22https://www.bing.com%22,%22locale%22:{%22content%22:{%22language%22:%22pl%22,%22market%22:%22pl%22},%22display%22:{%22language%22:%22pl%22,%22market%22:%22pl%22}},%22os%22:%22windows%22,%22platform%22:%22web%22,%22pageType%22:%22widgetfeed%22,%22pageExperiments%22:[]}"},"message":"CRS fetch network error"}", source: https://assets.msn.com/bundles/v1/bingHomepage/latest/common.5826b0c81d7be4936892.js (9073)
+[1014/202949.907:INFO:CONSOLE(1)] "[Report Only] Refused to load the script 'https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-g4GHRwW09P1gLnbJ0VoawXFt3lMwVuog5yW5S2lBZpk='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+", source: https://www.bing.com/?setlang=pl&cc=pl&cc=PL (1)
+[1014/202950.484:WARNING:browser_info.cc(309)] Returning a speculative frame for 55834574853 [13,5]
+[1014/202950.515:WARNING:browser_info.cc(309)] Returning a speculative frame for 55834574853 [13,5]
+[1014/202950.515:WARNING:browser_info.cc(309)] Returning a speculative frame for 55834574853 [13,5]
+[1014/202950.515:WARNING:browser_info.cc(309)] Returning a speculative frame for 55834574853 [13,5]
+[1014/202950.515:WARNING:browser_info.cc(309)] Returning a speculative frame for 55834574853 [13,5]
+[1014/202950.623:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705680 [9,16]
+[1014/202950.623:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705680 [9,16]
+[1014/202950.623:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705680 [9,16]
+[1014/202950.623:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705680 [9,16]
+[1014/202950.630:INFO:CONSOLE(0)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://www.bing.com/orgid/idtoken/nosignin (0)
+[1014/202953.999:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 38654705680 [9,16] will be ignored
+[1014/202954.023:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 38654705668 [9,4] will be ignored
+[1014/202954.421:WARNING:sqlite_persistent_store_backend_base.cc(194)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:242 to client_task_runner_.
+[1014/202954.421:WARNING:sqlite_persistent_store_backend_base.cc(194)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:242 to client_task_runner_.
+[1014/202955.923:WARNING:chrome_browser_cloud_management_controller.cc(88)] Could not create policy manager as CBCM is not enabled.
+[1014/202956.403:WARNING:dxgi_swap_chain_image_backing.cc(205)] First draw to surface should draw to everything
+[1014/202956.445:INFO:CONSOLE(1)] "[Report Only] Refused to load the script 'https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-mhDlosOeOyMxUq3pfUsH/XTfeNKJiBtyCeN/luFKQ7U='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+", source: https://www.bing.com/ (1)
+[1014/202956.932:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/202956.956:INFO:CONSOLE(72)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://r.bing.com/rp/hkXWsTcGTHs44QxzZyThd4fbbPM.br.js (72)
+[1014/202957.163:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/202957.164:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/202957.164:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/202957.164:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803781 [6,5]
+[1014/202957.258:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803784 [6,8]
+[1014/202957.259:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803784 [6,8]
+[1014/202957.259:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803784 [6,8]
+[1014/202957.259:WARNING:browser_info.cc(309)] Returning a speculative frame for 25769803784 [6,8]
+[1014/202957.337:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771079 [7,7]
+[1014/202957.338:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771079 [7,7]
+[1014/202957.338:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771079 [7,7]
+[1014/202957.338:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771079 [7,7]
+[1014/202957.338:WARNING:browser_info.cc(309)] Returning a speculative frame for 30064771079 [7,7]
+[1014/202957.374:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836489 [5,9]
+[1014/202957.374:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836489 [5,9]
+[1014/202957.374:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836489 [5,9]
+[1014/202957.375:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836489 [5,9]
+[1014/202957.376:INFO:CONSOLE(0)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://www.bing.com/orgid/idtoken/nosignin (0)
+[1014/202958.006:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836491 [5,11]
+[1014/202958.006:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836491 [5,11]
+[1014/202958.007:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836491 [5,11]
+[1014/202958.007:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836491 [5,11]
+[1014/202958.009:INFO:CONSOLE(0)] "An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.", source: https://www.bing.com/#code=M.C107_BL2.2.75aa8182-62d6-c831-fd66-4b195a0f6bb4&client_info=eyJ2ZXIiOiIxLjAiLCJzdWIiOiJBQUFBQUFBQUFBQUFBQUFBQUFBQUFFRDVINTVhSXI2dUV3OUJWZF9OQlZVIiwibmFtZSI6Im9saXdpZXIgRnLEhWNraWV3aWN6IiwicHJlZmVycmVkX3VzZXJuYW1lIjoib2xpd2llcjEyNjEyM0B3cC5wbCIsIm9pZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC1hZWQ0LWQyZWFkN2FkZmZkNSIsInRpZCI6IjkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsImhvbWVfb2lkIjoiMDAwMDAwMDAtMDAwMC0wMDAwLWFlZDQtZDJlYWQ3YWRmZmQ1IiwidWlkIjoiMDAwMDAwMDAtMDAwMC0wMDAwLWFlZDQtZDJlYWQ3YWRmZmQ1IiwidXRpZCI6IjkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCJ9&state=eyJpZCI6IjY2Zjc0YmRlLTlmYmMtNDY5Mi1hZDdmLTgyYTg2YzJiNzMwMiIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoic2lsZW50In19 (0)
+[1014/202958.013:INFO:CONSOLE(1)] "[Report Only] Refused to load the script 'https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js' because it violates the following Content Security Policy directive: "script-src https: 'strict-dynamic' 'report-sample' 'nonce-xvOA2eADngd8i30IVAIGGjXQT9u3VP6c+G5gWOtWXoA='". Note that 'strict-dynamic' is present, so host-based allowlisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+", source: https://www.bing.com/#code=M.C107_BL2.2.75aa8182-62d6-c831-fd66-4b195a0f6bb4&client_info=eyJ2ZXIiOiIxLjAiLCJzdWIiOiJBQUFBQUFBQUFBQUFBQUFBQUFBQUFFRDVINTVhSXI2dUV3OUJWZF9OQlZVIiwibmFtZSI6Im9saXdpZXIgRnLEhWNraWV3aWN6IiwicHJlZmVycmVkX3VzZXJuYW1lIjoib2xpd2llcjEyNjEyM0B3cC5wbCIsIm9pZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC1hZWQ0LWQyZWFkN2FkZmZkNSIsInRpZCI6IjkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsImhvbWVfb2lkIjoiMDAwMDAwMDAtMDAwMC0wMDAwLWFlZDQtZDJlYWQ3YWRmZmQ1IiwidWlkIjoiMDAwMDAwMDAtMDAwMC0wMDAwLWFlZDQtZDJlYWQ3YWRmZmQ1IiwidXRpZCI6IjkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCJ9&state=eyJpZCI6IjY2Zjc0YmRlLTlmYmMtNDY5Mi1hZDdmLTgyYTg2YzJiNzMwMiIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoic2lsZW50In19 (1)
+[1014/203004.763:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1014/203010.323:INFO:CONSOLE(0)] "The resource https://r.bing.com/rp/lmu8EBCaPRMKtay8LSArGyY3mv4.br.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.bing.com/ (0)
+[1014/203018.474:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 21474836489 [5,9] will be ignored
+[1014/203018.918:WARNING:sqlite_persistent_store_backend_base.cc(194)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:242 to client_task_runner_.
+[1014/203018.919:WARNING:sqlite_persistent_store_backend_base.cc(194)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:242 to client_task_runner_.
